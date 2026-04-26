@@ -1,0 +1,1504 @@
+==================================================
+  Symbol: OPUSDT
+  Initial balance: $10,000
+==================================================
+
+Loading data...
+
+[OK] Loaded 105000 5m candles from local file.
+[OK] Loaded 35000 15m candles from local file.
+[OK] Loaded 9000 1h candles from local file.
+[OK] Loaded 3000 4h candles from local file.
+
+Loaded: 5m=105000, 15m=35000, 1h=9000, 4h=3000
+
+Running V31 Backtest (realistic mode)...
+
+Total 5m candles: 105000
+Costs → Taker fee: 0.0550% | Slippage entry: 0.020% / exit: 0.015%
+Funding: 0.0100% per 8h | Filters: quality≥0.55, HTF≥-0.05, min_gap=2 bars
+Starting Turbo Institutional loop...
+
+OPEN LONG | Price: 0.6818 | SL: 0.6777 | Risk: 0.88% | Size: 17166.29
+CLOSE [breakeven_stop] | Gross: 18.47 | Costs: 12.89 | Net: 5.58 | Eq: 10005.58 | DD: 0.46%
+OPEN LONG | Price: 0.6838 | SL: 0.6784 | Risk: 0.88% | Size: 13589.24
+CLOSE [breakeven_stop] | Gross: 80.34 | Costs: 10.27 | Net: 70.08 | Eq: 10075.66 | DD: 1.37%
+OPEN LONG | Price: 0.645 | SL: 0.6417 | Risk: 0.96% | Size: 22384.58
+CLOSE [breakeven_stop] | Gross: 35.87 | Costs: 16.01 | Net: 19.86 | Eq: 10095.52 | DD: 1.37%
+Progress: 1.4% | Trades: 3 | Equity: 10095.52 | Fees: $39.16 | Funding: $0.0
+OPEN LONG | Price: 0.6356 | SL: 0.6313 | Risk: 0.88% | Size: 16957.04
+CLOSE [breakeven_stop] | Gross: 20.35 | Costs: 11.87 | Net: 8.48 | Eq: 10104.0 | DD: 2.49%
+OPEN LONG | Price: 0.6607 | SL: 0.6569 | Risk: 0.88% | Size: 18586.14
+CLOSE [stop_loss] | Gross: -20.11 | Costs: 13.5 | Net: -33.6 | Eq: 10070.4 | DD: 2.49%
+Progress: 2.9% | Trades: 5 | Equity: 10070.4 | Fees: $64.53 | Funding: $0.0
+OPEN LONG | Price: 0.6935 | SL: 0.689 | Risk: 1.01% | Size: 18114.48
+CLOSE [breakeven_stop] | Gross: 19.82 | Costs: 13.83 | Net: 5.99 | Eq: 10076.39 | DD: 2.49%
+OPEN LONG | Price: 0.6987 | SL: 0.6942 | Risk: 1.01% | Size: 18379.79
+CLOSE [breakeven_stop] | Gross: 335.04 | Costs: 14.31 | Net: 320.73 | Eq: 10397.12 | DD: 2.49%
+OPEN LONG | Price: 0.7398 | SL: 0.7356 | Risk: 1.1% | Size: 21487.46
+CLOSE [breakeven_stop] | Gross: 21.95 | Costs: 17.85 | Net: 4.1 | Eq: 10401.22 | DD: 2.49%
+OPEN LONG | Price: 0.7483 | SL: 0.7434 | Risk: 1.01% | Size: 17212.39
+CLOSE [breakeven_stop] | Gross: 13.52 | Costs: 14.18 | Net: -0.65 | Eq: 10400.56 | DD: 2.49%
+OPEN LONG | Price: 0.7519 | SL: 0.7475 | Risk: 1.1% | Size: 20920.55
+CLOSE [breakeven_stop] | Gross: 169.22 | Costs: 17.81 | Net: 151.41 | Eq: 10551.97 | DD: 2.49%
+OPEN LONG | Price: 0.7613 | SL: 0.7555 | Risk: 1.01% | Size: 15486.44
+CLOSE [stop_loss] | Gross: -90.86 | Costs: 14.1 | Net: -104.95 | Eq: 10445.84 | DD: 3.43%
+OPEN LONG | Price: 0.7467 | SL: 0.7389 | Risk: 1.01% | Size: 11836.72
+CLOSE [breakeven_stop] | Gross: 120.84 | Costs: 9.89 | Net: 110.95 | Eq: 10556.79 | DD: 3.43%
+OPEN LONG | Price: 0.7638 | SL: 0.7589 | Risk: 1.1% | Size: 19357.94
+CLOSE [breakeven_stop] | Gross: 100.9 | Costs: 16.56 | Net: 84.33 | Eq: 10641.12 | DD: 3.43%
+OPEN LONG | Price: 0.7571 | SL: 0.7528 | Risk: 1.01% | Size: 19903.27
+CLOSE [breakeven_stop] | Gross: 57.61 | Costs: 16.77 | Net: 40.83 | Eq: 10681.96 | DD: 3.43%
+OPEN LONG | Price: 0.7684 | SL: 0.764 | Risk: 1.01% | Size: 19684.09
+CLOSE [breakeven_stop] | Gross: 35.71 | Costs: 16.66 | Net: 19.06 | Eq: 10701.02 | DD: 3.43%
+OPEN LONG | Price: 0.7869 | SL: 0.7798 | Risk: 1.01% | Size: 13089.86
+CLOSE [stop_loss] | Gross: -6.23 | Costs: 11.33 | Net: -17.55 | Eq: 10683.46 | DD: 3.43%
+OPEN LONG | Price: 0.7919 | SL: 0.7874 | Risk: 1.01% | Size: 19299.4
+CLOSE [breakeven_stop] | Gross: 38.98 | Costs: 16.83 | Net: 22.15 | Eq: 10705.61 | DD: 3.43%
+OPEN LONG | Price: 0.7909 | SL: 0.7852 | Risk: 1.01% | Size: 15831.36
+CLOSE [breakeven_stop] | Gross: 16.15 | Costs: 13.78 | Net: 2.37 | Eq: 10707.98 | DD: 3.43%
+OPEN LONG | Price: 0.7881 | SL: 0.7837 | Risk: 1.01% | Size: 19512.82
+CLOSE [breakeven_stop] | Gross: 323.6 | Costs: 17.09 | Net: 306.51 | Eq: 11014.49 | DD: 3.43%
+OPEN LONG | Price: 0.8082 | SL: 0.8029 | Risk: 1.01% | Size: 17220.36
+CLOSE [stop_loss] | Gross: -92.67 | Costs: 15.26 | Net: -107.92 | Eq: 10906.57 | DD: 3.43%
+OPEN LONG | Price: 0.815 | SL: 0.8106 | Risk: 1.01% | Size: 19769.18
+CLOSE [stop_loss] | Gross: -88.61 | Costs: 17.67 | Net: -106.29 | Eq: 10800.28 | DD: 3.43%
+OPEN LONG | Price: 0.8107 | SL: 0.8061 | Risk: 1.01% | Size: 18908.92
+CLOSE [breakeven_stop] | Gross: 108.09 | Costs: 17.12 | Net: 90.96 | Eq: 10891.24 | DD: 3.43%
+OPEN LONG | Price: 0.8067 | SL: 0.8025 | Risk: 1.01% | Size: 20618.3
+CLOSE [breakeven_stop] | Gross: 550.63 | Costs: 18.6 | Net: 532.03 | Eq: 11423.27 | DD: 3.43%
+OPEN LONG | Price: 0.8329 | SL: 0.8273 | Risk: 1.01% | Size: 16895.77
+CLOSE [breakeven_stop] | Gross: 47.27 | Costs: 15.51 | Net: 31.76 | Eq: 11455.04 | DD: 3.43%
+Progress: 4.3% | Trades: 24 | Equity: 11455.04 | Fees: $358.5 | Funding: $1.18
+OPEN LONG | Price: 0.8276 | SL: 0.8221 | Risk: 1.01% | Size: 17232.63
+CLOSE [breakeven_stop] | Gross: 118.81 | Costs: 15.99 | Net: 102.82 | Eq: 11557.86 | DD: 3.43%
+OPEN LONG | Price: 0.8457 | SL: 0.8396 | Risk: 1.01% | Size: 15858.34
+CLOSE [stop_loss] | Gross: -98.85 | Costs: 14.7 | Net: -113.54 | Eq: 11444.32 | DD: 3.43%
+OPEN LONG | Price: 0.7835 | SL: 0.7795 | Risk: 1.1% | Size: 24430.53
+CLOSE [breakeven_stop] | Gross: 63.92 | Costs: 21.39 | Net: 42.53 | Eq: 11486.85 | DD: 3.43%
+OPEN LONG | Price: 0.7778 | SL: 0.7734 | Risk: 1.01% | Size: 21113.08
+CLOSE [breakeven_stop] | Gross: 288.28 | Costs: 20.04 | Net: 268.23 | Eq: 11753.44 | DD: 3.43%
+OPEN LONG | Price: 0.775 | SL: 0.7703 | Risk: 1.01% | Size: 20351.32
+CLOSE [breakeven_stop] | Gross: 41.41 | Costs: 17.49 | Net: 23.92 | Eq: 11777.36 | DD: 3.43%
+OPEN LONG | Price: 0.7736 | SL: 0.7689 | Risk: 1.1% | Size: 22213.88
+CLOSE [breakeven_stop] | Gross: 292.59 | Costs: 19.2 | Net: 273.4 | Eq: 12050.76 | DD: 3.43%
+OPEN LONG | Price: 0.7508 | SL: 0.7462 | Risk: 1.01% | Size: 21391.16
+CLOSE [breakeven_stop] | Gross: 20.71 | Costs: 17.68 | Net: 3.04 | Eq: 12053.79 | DD: 3.43%
+OPEN LONG | Price: 0.7354 | SL: 0.7317 | Risk: 1.01% | Size: 25358.93
+CLOSE [breakeven_stop] | Gross: 63.44 | Costs: 20.55 | Net: 42.89 | Eq: 12096.68 | DD: 3.43%
+OPEN LONG | Price: 0.7315 | SL: 0.7278 | Risk: 1.01% | Size: 25423.45
+CLOSE [breakeven_stop] | Gross: 69.18 | Costs: 20.5 | Net: 48.68 | Eq: 12145.36 | DD: 3.43%
+Progress: 5.7% | Trades: 33 | Equity: 12145.36 | Fees: $524.38 | Funding: $2.82
+OPEN LONG | Price: 0.6848 | SL: 0.6806 | Risk: 1.01% | Size: 23465.41
+CLOSE [stop_loss] | Gross: -101.2 | Costs: 17.62 | Net: -118.82 | Eq: 12026.54 | DD: 3.43%
+OPEN LONG | Price: 0.6806 | SL: 0.6767 | Risk: 1.01% | Size: 24732.72
+CLOSE [stop_loss] | Gross: -98.97 | Costs: 18.46 | Net: -117.43 | Eq: 11909.11 | DD: 3.43%
+OPEN LONG | Price: 0.6569 | SL: 0.6527 | Risk: 1.01% | Size: 23242.23
+CLOSE [breakeven_stop] | Gross: 103.13 | Costs: 18.38 | Net: 84.75 | Eq: 11992.34 | DD: 3.43%
+OPEN LONG | Price: 0.6501 | SL: 0.6466 | Risk: 1.01% | Size: 26840.46
+CLOSE [stop_loss] | Gross: -18.95 | Costs: 19.18 | Net: -38.13 | Eq: 11954.2 | DD: 3.43%
+Progress: 7.1% | Trades: 37 | Equity: 11954.2 | Fees: $596.51 | Funding: $4.35
+OPEN LONG | Price: 0.6152 | SL: 0.6096 | Risk: 1.01% | Size: 18415.54
+CLOSE [breakeven_stop] | Gross: 38.71 | Costs: 12.48 | Net: 26.23 | Eq: 11980.43 | DD: 3.43%
+OPEN LONG | Price: 0.6036 | SL: 0.5991 | Risk: 1.01% | Size: 22297.07
+CLOSE [breakeven_stop] | Gross: 147.13 | Costs: 15.09 | Net: 132.03 | Eq: 12112.46 | DD: 3.43%
+OPEN LONG | Price: 0.585 | SL: 0.5806 | Risk: 1.01% | Size: 23305.3
+CLOSE [breakeven_stop] | Gross: 105.1 | Costs: 15.06 | Net: 90.04 | Eq: 12202.51 | DD: 3.43%
+OPEN LONG | Price: 0.5912 | SL: 0.5871 | Risk: 1.01% | Size: 24587.03
+CLOSE [breakeven_stop] | Gross: 120.09 | Costs: 16.17 | Net: 103.92 | Eq: 12306.43 | DD: 3.43%
+OPEN LONG | Price: 0.5936 | SL: 0.5905 | Risk: 1.01% | Size: 31070.91
+CLOSE [breakeven_stop] | Gross: 33.33 | Costs: 20.31 | Net: 13.03 | Eq: 12319.45 | DD: 3.43%
+OPEN LONG | Price: 0.6153 | SL: 0.61 | Risk: 1.01% | Size: 19851.97
+CLOSE [breakeven_stop] | Gross: 53.64 | Costs: 13.6 | Net: 40.04 | Eq: 12359.5 | DD: 3.43%
+OPEN LONG | Price: 0.6295 | SL: 0.6258 | Risk: 1.01% | Size: 26890.24
+CLOSE [breakeven_stop] | Gross: 72.95 | Costs: 18.66 | Net: 54.29 | Eq: 12413.79 | DD: 3.43%
+OPEN LONG | Price: 0.6337 | SL: 0.629 | Risk: 1.01% | Size: 22303.12
+CLOSE [breakeven_stop] | Gross: 622.56 | Costs: 15.97 | Net: 606.6 | Eq: 13020.38 | DD: 3.43%
+OPEN LONG | Price: 0.6705 | SL: 0.6653 | Risk: 1.01% | Size: 21171.84
+CLOSE [breakeven_stop] | Gross: 377.6 | Costs: 15.82 | Net: 361.77 | Eq: 13382.16 | DD: 3.43%
+OPEN LONG | Price: 0.7019 | SL: 0.6945 | Risk: 1.01% | Size: 15953.99
+CLOSE [breakeven_stop] | Gross: 11.76 | Costs: 12.33 | Net: -0.57 | Eq: 13381.59 | DD: 3.43%
+OPEN LONG | Price: 0.6951 | SL: 0.6872 | Risk: 1.01% | Size: 15041.13
+CLOSE [breakeven_stop] | Gross: 194.92 | Costs: 11.8 | Net: 183.11 | Eq: 13564.7 | DD: 3.43%
+OPEN LONG | Price: 0.726 | SL: 0.7205 | Risk: 1.1% | Size: 22447.84
+CLOSE [breakeven_stop] | Gross: 249.4 | Costs: 18.07 | Net: 231.33 | Eq: 13796.03 | DD: 5.95%
+OPEN LONG | Price: 0.7489 | SL: 0.7424 | Risk: 1.1% | Size: 19885.81
+CLOSE [breakeven_stop] | Gross: 44.08 | Costs: 16.41 | Net: 27.68 | Eq: 13823.71 | DD: 5.95%
+OPEN LONG | Price: 0.7504 | SL: 0.7428 | Risk: 1.01% | Size: 16178.64
+CLOSE [breakeven_stop] | Gross: 90.83 | Costs: 13.54 | Net: 77.3 | Eq: 13901.0 | DD: 5.95%
+OPEN LONG | Price: 0.7521 | SL: 0.746 | Risk: 1.1% | Size: 21369.34
+CLOSE [breakeven_stop] | Gross: 54.11 | Costs: 17.71 | Net: 36.4 | Eq: 13937.4 | DD: 5.95%
+OPEN LONG | Price: 0.7628 | SL: 0.7574 | Risk: 1.01% | Size: 21875.48
+CLOSE [stop_loss] | Gross: -44.25 | Costs: 20.0 | Net: -64.25 | Eq: 13871.48 | DD: 5.95%
+OPEN LONG | Price: 0.7542 | SL: 0.7491 | Risk: 1.01% | Size: 22723.74
+CLOSE [breakeven_stop] | Gross: 82.58 | Costs: 18.9 | Net: 63.69 | Eq: 13935.17 | DD: 5.95%
+OPEN LONG | Price: 0.7641 | SL: 0.7589 | Risk: 1.1% | Size: 24421.08
+CLOSE [stop_loss] | Gross: -128.64 | Costs: 20.45 | Net: -149.09 | Eq: 13786.08 | DD: 5.95%
+OPEN LONG | Price: 0.7668 | SL: 0.7606 | Risk: 1.01% | Size: 19055.38
+CLOSE [breakeven_stop] | Gross: 83.82 | Costs: 16.12 | Net: 67.7 | Eq: 13853.78 | DD: 5.95%
+OPEN LONG | Price: 0.7718 | SL: 0.7653 | Risk: 1.01% | Size: 18402.98
+CLOSE [breakeven_stop] | Gross: 155.69 | Costs: 15.71 | Net: 139.98 | Eq: 13993.76 | DD: 5.95%
+OPEN LONG | Price: 0.7865 | SL: 0.7782 | Risk: 1.01% | Size: 14984.15
+CLOSE [breakeven_stop] | Gross: 15.2 | Costs: 12.97 | Net: 2.23 | Eq: 13995.99 | DD: 5.95%
+OPEN LONG | Price: 0.8135 | SL: 0.8043 | Risk: 1.01% | Size: 13602.11
+CLOSE [breakeven_stop] | Gross: 958.38 | Costs: 14.0 | Net: 944.38 | Eq: 14939.25 | DD: 5.95%
+OPEN LONG | Price: 0.9233 | SL: 0.9073 | Risk: 1.1% | Size: 9512.32
+CLOSE [breakeven_stop] | Gross: 148.26 | Costs: 9.91 | Net: 138.35 | Eq: 15077.6 | DD: 5.95%
+OPEN LONG | Price: 0.9122 | SL: 0.8958 | Risk: 1.1% | Size: 9388.96
+CLOSE [breakeven_stop] | Gross: 180.48 | Costs: 9.68 | Net: 170.8 | Eq: 15248.4 | DD: 5.95%
+OPEN LONG | Price: 0.9261 | SL: 0.9112 | Risk: 1.1% | Size: 10345.99
+CLOSE [stop_loss] | Gross: -155.38 | Costs: 10.45 | Net: -165.84 | Eq: 15082.56 | DD: 5.95%
+OPEN LONG | Price: 0.8424 | SL: 0.8337 | Risk: 1.1% | Size: 16766.15
+CLOSE [stop_loss] | Gross: -49.19 | Costs: 15.51 | Net: -64.69 | Eq: 15017.87 | DD: 5.95%
+OPEN LONG | Price: 0.8427 | SL: 0.8331 | Risk: 1.01% | Size: 14044.8
+CLOSE [breakeven_stop] | Gross: 90.29 | Costs: 13.07 | Net: 77.22 | Eq: 15095.09 | DD: 5.95%
+OPEN LONG | Price: 0.8676 | SL: 0.8581 | Risk: 1.01% | Size: 14138.2
+CLOSE [breakeven_stop] | Gross: 68.68 | Costs: 13.53 | Net: 55.15 | Eq: 15150.24 | DD: 5.95%
+OPEN LONG | Price: 0.8743 | SL: 0.8662 | Risk: 1.1% | Size: 17812.45
+Progress: 8.6% | Trades: 65 | Equity: 15150.24 | Fees: $1017.02 | Funding: $7.14
+CLOSE [stop_loss] | Gross: -146.21 | Costs: 17.05 | Net: -163.26 | Eq: 14986.97 | DD: 5.95%
+OPEN LONG | Price: 0.8861 | SL: 0.8723 | Risk: 1.01% | Size: 10017.83
+CLOSE [breakeven_stop] | Gross: 41.32 | Costs: 9.98 | Net: 31.33 | Eq: 15018.31 | DD: 5.95%
+OPEN LONG | Price: 0.8388 | SL: 0.8291 | Risk: 1.01% | Size: 13956.03
+CLOSE [stop_loss] | Gross: -136.16 | Costs: 12.8 | Net: -148.96 | Eq: 14869.34 | DD: 5.95%
+OPEN LONG | Price: 0.7993 | SL: 0.7938 | Risk: 1.01% | Size: 22692.96
+CLOSE [trailing_stop] | Gross: 11.21 | Costs: 19.96 | Net: -8.75 | Eq: 14860.59 | DD: 5.95%
+OPEN LONG | Price: 0.8108 | SL: 0.8025 | Risk: 1.01% | Size: 15797.66
+CLOSE [breakeven_stop] | Gross: 85.37 | Costs: 14.14 | Net: 71.23 | Eq: 14931.83 | DD: 5.95%
+OPEN LONG | Price: 0.8672 | SL: 0.8575 | Risk: 1.1% | Size: 15048.6
+CLOSE [breakeven_stop] | Gross: 434.83 | Costs: 14.59 | Net: 420.23 | Eq: 15352.06 | DD: 5.95%
+OPEN LONG | Price: 0.8986 | SL: 0.8881 | Risk: 1.1% | Size: 14305.25
+CLOSE [stop_loss] | Gross: -79.3 | Costs: 14.1 | Net: -93.4 | Eq: 15258.66 | DD: 5.95%
+OPEN LONG | Price: 0.9033 | SL: 0.893 | Risk: 1.01% | Size: 13265.4
+CLOSE [breakeven_stop] | Gross: 15.45 | Costs: 13.19 | Net: 2.27 | Eq: 15260.93 | DD: 5.95%
+OPEN LONG | Price: 0.8399 | SL: 0.8334 | Risk: 1.01% | Size: 19976.2
+CLOSE [breakeven_stop] | Gross: 65.16 | Costs: 18.49 | Net: 46.66 | Eq: 15307.59 | DD: 5.95%
+OPEN LONG | Price: 0.7923 | SL: 0.7818 | Risk: 1.01% | Size: 13339.16
+CLOSE [breakeven_stop] | Gross: 192.47 | Costs: 11.93 | Net: 180.54 | Eq: 15488.13 | DD: 5.95%
+OPEN LONG | Price: 0.8007 | SL: 0.7925 | Risk: 1.1% | Size: 18216.08
+CLOSE [stop_loss] | Gross: -74.75 | Costs: 16.0 | Net: -90.75 | Eq: 15397.38 | DD: 5.95%
+OPEN LONG | Price: 0.7593 | SL: 0.7511 | Risk: 1.1% | Size: 18229.98
+CLOSE [breakeven_stop] | Gross: 96.84 | Costs: 15.54 | Net: 81.3 | Eq: 15478.69 | DD: 5.95%
+OPEN LONG | Price: 0.7642 | SL: 0.7555 | Risk: 1.01% | Size: 15961.17
+CLOSE [stop_loss] | Gross: -57.37 | Costs: 13.38 | Net: -70.76 | Eq: 15407.93 | DD: 5.95%
+Progress: 10.0% | Trades: 78 | Equity: 15407.93 | Fees: $1208.18 | Funding: $7.14
+OPEN LONG | Price: 0.7038 | SL: 0.6997 | Risk: 1.1% | Size: 32431.28
+CLOSE [stop_loss] | Gross: -83.92 | Costs: 25.06 | Net: -108.98 | Eq: 15298.95 | DD: 5.95%
+OPEN LONG | Price: 0.6999 | SL: 0.6939 | Risk: 0.97% | Size: 20848.07
+CLOSE [breakeven_stop] | Gross: 18.82 | Costs: 16.06 | Net: 2.76 | Eq: 15301.71 | DD: 5.95%
+OPEN LONG | Price: 0.7008 | SL: 0.696 | Risk: 0.97% | Size: 25268.04
+CLOSE [stop_loss] | Gross: -124.2 | Costs: 19.41 | Net: -143.61 | Eq: 15158.11 | DD: 5.95%
+OPEN LONG | Price: 0.7081 | SL: 0.7042 | Risk: 0.88% | Size: 26481.18
+CLOSE [breakeven_stop] | Gross: 345.83 | Costs: 20.82 | Net: 325.02 | Eq: 15483.12 | DD: 5.95%
+OPEN LONG | Price: 0.72 | SL: 0.7144 | Risk: 1.01% | Size: 23294.33
+CLOSE [stop_loss] | Gross: -134.03 | Costs: 18.38 | Net: -152.4 | Eq: 15330.72 | DD: 5.95%
+OPEN LONG | Price: 0.7228 | SL: 0.7177 | Risk: 0.97% | Size: 23790.51
+CLOSE [breakeven_stop] | Gross: 414.88 | Costs: 19.14 | Net: 395.74 | Eq: 15726.46 | DD: 5.95%
+OPEN LONG | Price: 0.707 | SL: 0.7002 | Risk: 1.01% | Size: 20046.49
+CLOSE [breakeven_stop] | Gross: 139.71 | Costs: 16.14 | Net: 123.57 | Eq: 15850.02 | DD: 5.95%
+OPEN LONG | Price: 0.6886 | SL: 0.6814 | Risk: 1.01% | Size: 19282.2
+CLOSE [breakeven_stop] | Gross: 143.9 | Costs: 16.01 | Net: 127.89 | Eq: 15976.58 | DD: 5.95%
+OPEN LONG | Price: 0.6961 | SL: 0.6907 | Risk: 1.01% | Size: 25006.51
+CLOSE [breakeven_stop] | Gross: 27.47 | Costs: 19.16 | Net: 8.3 | Eq: 15984.88 | DD: 5.95%
+OPEN LONG | Price: 0.7141 | SL: 0.707 | Risk: 1.01% | Size: 19736.8
+CLOSE [stop_loss] | Gross: -121.68 | Costs: 15.44 | Net: -137.12 | Eq: 15847.76 | DD: 5.95%
+OPEN LONG | Price: 0.7122 | SL: 0.7065 | Risk: 1.01% | Size: 23435.75
+CLOSE [breakeven_stop] | Gross: 310.75 | Costs: 18.72 | Net: 292.03 | Eq: 16139.8 | DD: 5.95%
+OPEN LONG | Price: 0.7055 | SL: 0.7007 | Risk: 1.01% | Size: 27478.81
+CLOSE [breakeven_stop] | Gross: 48.72 | Costs: 21.35 | Net: 27.37 | Eq: 16167.16 | DD: 5.95%
+OPEN LONG | Price: 0.7019 | SL: 0.697 | Risk: 1.01% | Size: 27110.23
+CLOSE [breakeven_stop] | Gross: 124.65 | Costs: 21.0 | Net: 103.65 | Eq: 16270.81 | DD: 5.95%
+OPEN LONG | Price: 0.6929 | SL: 0.6874 | Risk: 1.01% | Size: 24907.69
+CLOSE [breakeven_stop] | Gross: 824.66 | Costs: 19.44 | Net: 805.22 | Eq: 17076.04 | DD: 5.95%
+OPEN LONG | Price: 0.7324 | SL: 0.726 | Risk: 1.01% | Size: 22990.61
+CLOSE [breakeven_stop] | Gross: 186.0 | Costs: 20.31 | Net: 165.69 | Eq: 17240.05 | DD: 5.95%
+OPEN LONG | Price: 0.7279 | SL: 0.7208 | Risk: 1.01% | Size: 21068.1
+CLOSE [breakeven_stop] | Gross: 19.78 | Costs: 16.88 | Net: 2.9 | Eq: 17242.95 | DD: 5.95%
+OPEN LONG | Price: 0.7369 | SL: 0.7295 | Risk: 1.01% | Size: 20404.78
+CLOSE [breakeven_stop] | Gross: 23.72 | Costs: 18.06 | Net: 5.67 | Eq: 17247.11 | DD: 5.95%
+OPEN LONG | Price: 0.7434 | SL: 0.7355 | Risk: 1.01% | Size: 19231.26
+CLOSE [breakeven_stop] | Gross: 245.76 | Costs: 15.86 | Net: 229.9 | Eq: 17477.01 | DD: 5.95%
+OPEN LONG | Price: 0.7562 | SL: 0.7486 | Risk: 1.01% | Size: 20433.73
+CLOSE [breakeven_stop] | Gross: 153.88 | Costs: 17.25 | Net: 136.63 | Eq: 17613.64 | DD: 5.95%
+OPEN LONG | Price: 0.7673 | SL: 0.7609 | Risk: 1.1% | Size: 25986.1
+CLOSE [breakeven_stop] | Gross: 62.36 | Costs: 22.41 | Net: 39.95 | Eq: 17653.59 | DD: 5.95%
+OPEN LONG | Price: 0.7735 | SL: 0.7678 | Risk: 1.01% | Size: 26330.07
+CLOSE [breakeven_stop] | Gross: 270.52 | Costs: 22.55 | Net: 247.97 | Eq: 17901.56 | DD: 5.95%
+Progress: 11.4% | Trades: 99 | Equity: 17901.56 | Fees: $1603.12 | Funding: $11.66
+OPEN LONG | Price: 0.796 | SL: 0.789 | Risk: 1.01% | Size: 22090.23
+CLOSE [breakeven_stop] | Gross: 155.97 | Costs: 19.43 | Net: 136.54 | Eq: 18038.1 | DD: 5.95%
+OPEN LONG | Price: 0.8143 | SL: 0.8068 | Risk: 1.01% | Size: 20982.33
+CLOSE [breakeven_stop] | Gross: 341.48 | Costs: 18.98 | Net: 322.5 | Eq: 18360.6 | DD: 5.95%
+OPEN LONG | Price: 0.8333 | SL: 0.8253 | Risk: 1.01% | Size: 20103.23
+CLOSE [breakeven_stop] | Gross: 28.72 | Costs: 18.44 | Net: 10.28 | Eq: 18370.88 | DD: 5.95%
+OPEN LONG | Price: 0.7785 | SL: 0.7706 | Risk: 1.01% | Size: 20682.06
+CLOSE [breakeven_stop] | Gross: 85.52 | Costs: 17.76 | Net: 67.76 | Eq: 18438.64 | DD: 5.95%
+OPEN LONG | Price: 0.7808 | SL: 0.7731 | Risk: 1.01% | Size: 21025.95
+CLOSE [breakeven_stop] | Gross: 139.03 | Costs: 18.13 | Net: 120.89 | Eq: 18559.54 | DD: 5.95%
+OPEN LONG | Price: 0.7872 | SL: 0.7814 | Risk: 1.1% | Size: 29502.76
+CLOSE [breakeven_stop] | Gross: 52.81 | Costs: 25.83 | Net: 26.98 | Eq: 18586.51 | DD: 5.95%
+OPEN LONG | Price: 0.7465 | SL: 0.7408 | Risk: 1.1% | Size: 29760.75
+CLOSE [breakeven_stop] | Gross: 63.67 | Costs: 24.47 | Net: 39.2 | Eq: 18625.71 | DD: 5.95%
+OPEN LONG | Price: 0.764 | SL: 0.7595 | Risk: 1.1% | Size: 36629.08
+CLOSE [breakeven_stop] | Gross: 69.46 | Costs: 33.95 | Net: 35.5 | Eq: 18658.39 | DD: 5.95%
+OPEN LONG | Price: 0.7681 | SL: 0.7628 | Risk: 1.1% | Size: 31908.26
+CLOSE [breakeven_stop] | Gross: 147.96 | Costs: 27.23 | Net: 120.74 | Eq: 18779.12 | DD: 5.95%
+OPEN LONG | Price: 0.7668 | SL: 0.7626 | Risk: 0.97% | Size: 33977.1
+CLOSE [stop_loss] | Gross: -146.59 | Costs: 28.58 | Net: -175.17 | Eq: 18603.96 | DD: 5.95%
+OPEN LONG | Price: 0.7269 | SL: 0.7232 | Risk: 1.01% | Size: 38809.91
+CLOSE [stop_loss] | Gross: -150.16 | Costs: 33.77 | Net: -183.94 | Eq: 18417.2 | DD: 5.95%
+OPEN LONG | Price: 0.7372 | SL: 0.7327 | Risk: 1.1% | Size: 35723.94
+CLOSE [breakeven_stop] | Gross: 277.42 | Costs: 29.74 | Net: 247.68 | Eq: 18664.88 | DD: 5.95%
+OPEN LONG | Price: 0.7445 | SL: 0.74 | Risk: 1.1% | Size: 36067.07
+CLOSE [breakeven_stop] | Gross: 371.96 | Costs: 30.16 | Net: 341.8 | Eq: 19006.68 | DD: 5.95%
+OPEN LONG | Price: 0.7602 | SL: 0.7563 | Risk: 1.1% | Size: 41720.49
+CLOSE [breakeven_stop] | Gross: 173.1 | Costs: 34.98 | Net: 138.12 | Eq: 19144.8 | DD: 5.95%
+OPEN LONG | Price: 0.7651 | SL: 0.7607 | Risk: 1.01% | Size: 35105.11
+CLOSE [breakeven_stop] | Gross: 305.92 | Costs: 32.4 | Net: 273.53 | Eq: 19415.64 | DD: 5.95%
+OPEN LONG | Price: 0.7687 | SL: 0.7636 | Risk: 1.1% | Size: 34397.32
+CLOSE [breakeven_stop] | Gross: 450.65 | Costs: 29.92 | Net: 420.73 | Eq: 19836.38 | DD: 5.95%
+OPEN LONG | Price: 0.7775 | SL: 0.7719 | Risk: 1.01% | Size: 29700.09
+CLOSE [breakeven_stop] | Gross: 107.78 | Costs: 25.71 | Net: 82.07 | Eq: 19918.45 | DD: 5.95%
+OPEN LONG | Price: 0.7798 | SL: 0.7742 | Risk: 1.01% | Size: 29997.87
+CLOSE [breakeven_stop] | Gross: 75.9 | Costs: 25.77 | Net: 50.13 | Eq: 19968.58 | DD: 5.95%
+Progress: 12.9% | Trades: 117 | Equity: 19968.58 | Fees: $2070.04 | Funding: $19.99
+OPEN LONG | Price: 0.8147 | SL: 0.8067 | Risk: 1.01% | Size: 22058.27
+CLOSE [stop_loss] | Gross: -123.87 | Costs: 19.7 | Net: -143.57 | Eq: 19825.01 | DD: 5.95%
+OPEN LONG | Price: 0.6963 | SL: 0.6925 | Risk: 1.01% | Size: 40841.64
+CLOSE [breakeven_stop] | Gross: 36.68 | Costs: 31.3 | Net: 5.38 | Eq: 19830.38 | DD: 5.95%
+OPEN LONG | Price: 0.6661 | SL: 0.6612 | Risk: 1.1% | Size: 36865.87
+CLOSE [stop_loss] | Gross: -182.3 | Costs: 26.91 | Net: -209.21 | Eq: 19621.17 | DD: 5.95%
+OPEN LONG | Price: 0.6172 | SL: 0.613 | Risk: 1.01% | Size: 38738.33
+CLOSE [breakeven_stop] | Gross: 337.88 | Costs: 27.02 | Net: 310.86 | Eq: 19932.04 | DD: 5.95%
+OPEN LONG | Price: 0.6277 | SL: 0.6239 | Risk: 1.01% | Size: 42317.94
+CLOSE [breakeven_stop] | Gross: 460.66 | Costs: 29.47 | Net: 431.19 | Eq: 20363.22 | DD: 5.95%
+OPEN LONG | Price: 0.6441 | SL: 0.6402 | Risk: 1.01% | Size: 41887.33
+CLOSE [breakeven_stop] | Gross: 277.19 | Costs: 30.46 | Net: 246.73 | Eq: 20609.95 | DD: 5.95%
+OPEN LONG | Price: 0.6551 | SL: 0.6514 | Risk: 1.01% | Size: 44271.04
+CLOSE [breakeven_stop] | Gross: 91.54 | Costs: 32.6 | Net: 58.95 | Eq: 20668.9 | DD: 5.95%
+OPEN LONG | Price: 0.654 | SL: 0.6507 | Risk: 1.1% | Size: 52383.43
+CLOSE [breakeven_stop] | Gross: 307.55 | Costs: 42.03 | Net: 265.52 | Eq: 20930.97 | DD: 5.95%
+OPEN LONG | Price: 0.6467 | SL: 0.6421 | Risk: 1.01% | Size: 37979.63
+CLOSE [breakeven_stop] | Gross: 166.84 | Costs: 27.11 | Net: 139.73 | Eq: 21070.7 | DD: 5.95%
+Progress: 14.3% | Trades: 126 | Equity: 21070.7 | Fees: $2333.18 | Funding: $23.44
+OPEN LONG | Price: 0.646 | SL: 0.6401 | Risk: 1.01% | Size: 30978.54
+CLOSE [breakeven_stop] | Gross: 112.14 | Costs: 22.52 | Net: 89.62 | Eq: 21160.33 | DD: 5.95%
+OPEN LONG | Price: 0.6465 | SL: 0.6419 | Risk: 1.1% | Size: 41569.14
+CLOSE [breakeven_stop] | Gross: 42.4 | Costs: 29.59 | Net: 12.82 | Eq: 21173.14 | DD: 5.95%
+OPEN LONG | Price: 0.6758 | SL: 0.6711 | Risk: 1.01% | Size: 37129.8
+CLOSE [breakeven_stop] | Gross: 150.43 | Costs: 27.69 | Net: 122.74 | Eq: 21295.88 | DD: 5.95%
+OPEN LONG | Price: 0.6491 | SL: 0.6443 | Risk: 1.01% | Size: 37051.91
+CLOSE [stop_loss] | Gross: -183.02 | Costs: 26.36 | Net: -209.37 | Eq: 21086.51 | DD: 5.95%
+OPEN LONG | Price: 0.6255 | SL: 0.6221 | Risk: 1.1% | Size: 52791.4
+CLOSE [breakeven_stop] | Gross: 227.89 | Costs: 36.45 | Net: 191.44 | Eq: 21277.95 | DD: 5.95%
+OPEN LONG | Price: 0.636 | SL: 0.6324 | Risk: 1.01% | Size: 47172.94
+CLOSE [breakeven_stop] | Gross: 38.7 | Costs: 33.02 | Net: 5.67 | Eq: 21283.63 | DD: 5.95%
+OPEN LONG | Price: 0.59 | SL: 0.5857 | Risk: 1.1% | Size: 45254.92
+CLOSE [stop_loss] | Gross: -58.89 | Costs: 29.34 | Net: -88.23 | Eq: 21195.39 | DD: 5.95%
+OPEN LONG | Price: 0.603 | SL: 0.5986 | Risk: 1.01% | Size: 40655.62
+CLOSE [breakeven_stop] | Gross: 31.62 | Costs: 29.44 | Net: 2.18 | Eq: 21195.13 | DD: 5.95%
+OPEN LONG | Price: 0.6049 | SL: 0.6005 | Risk: 1.01% | Size: 40387.23
+CLOSE [breakeven_stop] | Gross: 31.51 | Costs: 26.89 | Net: 4.62 | Eq: 21199.75 | DD: 5.95%
+OPEN LONG | Price: 0.5902 | SL: 0.587 | Risk: 1.01% | Size: 51657.09
+CLOSE [breakeven_stop] | Gross: 39.32 | Costs: 33.56 | Net: 5.76 | Eq: 21205.51 | DD: 5.95%
+OPEN LONG | Price: 0.6197 | SL: 0.6158 | Risk: 1.01% | Size: 44043.57
+Progress: 15.7% | Trades: 136 | Equity: 21205.51 | Fees: $2625.58 | Funding: $25.89
+CLOSE [breakeven_stop] | Gross: 172.21 | Costs: 30.94 | Net: 141.28 | Eq: 21346.79 | DD: 5.95%
+OPEN LONG | Price: 0.6225 | SL: 0.6194 | Risk: 1.01% | Size: 53318.97
+CLOSE [breakeven_stop] | Gross: 165.15 | Costs: 36.86 | Net: 128.29 | Eq: 21475.07 | DD: 5.95%
+OPEN LONG | Price: 0.6331 | SL: 0.6298 | Risk: 1.01% | Size: 51268.93
+CLOSE [breakeven_stop] | Gross: 140.77 | Costs: 36.03 | Net: 104.74 | Eq: 21579.82 | DD: 5.95%
+OPEN LONG | Price: 0.6037 | SL: 0.6006 | Risk: 1.01% | Size: 54863.28
+CLOSE [breakeven_stop] | Gross: 782.92 | Costs: 37.05 | Net: 745.87 | Eq: 22325.69 | DD: 5.95%
+OPEN LONG | Price: 0.6162 | SL: 0.6129 | Risk: 1.1% | Size: 58644.09
+CLOSE [breakeven_stop] | Gross: 242.93 | Costs: 40.68 | Net: 202.25 | Eq: 22527.94 | DD: 5.95%
+OPEN LONG | Price: 0.6208 | SL: 0.6177 | Risk: 1.1% | Size: 61586.2
+CLOSE [breakeven_stop] | Gross: 492.78 | Costs: 42.33 | Net: 450.45 | Eq: 22978.39 | DD: 5.95%
+OPEN LONG | Price: 0.6276 | SL: 0.6239 | Risk: 1.01% | Size: 50255.82
+CLOSE [breakeven_stop] | Gross: 40.68 | Costs: 34.72 | Net: 5.96 | Eq: 22984.36 | DD: 5.95%
+OPEN LONG | Price: 0.6518 | SL: 0.6473 | Risk: 1.01% | Size: 42380.14
+CLOSE [breakeven_stop] | Gross: 377.45 | Costs: 30.9 | Net: 346.56 | Eq: 23330.91 | DD: 5.95%
+OPEN LONG | Price: 0.6456 | SL: 0.6416 | Risk: 1.01% | Size: 47351.5
+CLOSE [breakeven_stop] | Gross: 188.01 | Costs: 33.73 | Net: 154.28 | Eq: 23485.19 | DD: 5.95%
+OPEN LONG | Price: 0.7022 | SL: 0.6957 | Risk: 1.1% | Size: 34068.25
+CLOSE [breakeven_stop] | Gross: 30.86 | Costs: 26.33 | Net: 4.52 | Eq: 23489.72 | DD: 5.95%
+OPEN LONG | Price: 0.7003 | SL: 0.6952 | Risk: 1.01% | Size: 38448.86
+CLOSE [breakeven_stop] | Gross: 597.01 | Costs: 29.95 | Net: 567.07 | Eq: 24056.78 | DD: 5.95%
+OPEN LONG | Price: 0.7045 | SL: 0.6991 | Risk: 1.01% | Size: 37580.37
+CLOSE [breakeven_stop] | Gross: 34.15 | Costs: 29.14 | Net: 5.01 | Eq: 24061.79 | DD: 5.95%
+OPEN LONG | Price: 0.7279 | SL: 0.7184 | Risk: 1.01% | Size: 22935.59
+CLOSE [breakeven_stop] | Gross: 99.43 | Costs: 18.73 | Net: 80.69 | Eq: 24142.48 | DD: 5.95%
+OPEN LONG | Price: 0.734 | SL: 0.7261 | Risk: 1.01% | Size: 26961.79
+CLOSE [breakeven_stop] | Gross: 153.42 | Costs: 22.29 | Net: 131.13 | Eq: 24273.61 | DD: 5.95%
+Progress: 17.1% | Trades: 150 | Equity: 24273.61 | Fees: $3075.27 | Funding: $25.89
+OPEN LONG | Price: 0.6849 | SL: 0.6798 | Risk: 1.01% | Size: 39811.75
+CLOSE [stop_loss] | Gross: -96.38 | Costs: 29.94 | Net: -126.32 | Eq: 24147.29 | DD: 5.95%
+OPEN LONG | Price: 0.5833 | SL: 0.5789 | Risk: 1.01% | Size: 45922.21
+CLOSE [breakeven_stop] | Gross: 34.55 | Costs: 29.48 | Net: 5.06 | Eq: 24152.36 | DD: 5.95%
+OPEN LONG | Price: 0.5999 | SL: 0.5964 | Risk: 1.01% | Size: 54839.72
+CLOSE [breakeven_stop] | Gross: 68.23 | Costs: 36.23 | Net: 32.0 | Eq: 24184.36 | DD: 5.95%
+OPEN LONG | Price: 0.598 | SL: 0.5941 | Risk: 1.01% | Size: 50680.68
+CLOSE [breakeven_stop] | Gross: 65.95 | Costs: 33.71 | Net: 32.24 | Eq: 24216.6 | DD: 5.95%
+OPEN LONG | Price: 0.6024 | SL: 0.5993 | Risk: 1.01% | Size: 60457.41
+CLOSE [stop_loss] | Gross: -195.88 | Costs: 39.96 | Net: -235.83 | Eq: 23980.77 | DD: 5.95%
+OPEN LONG | Price: 0.5954 | SL: 0.591 | Risk: 1.01% | Size: 46004.35
+CLOSE [breakeven_stop] | Gross: 122.71 | Costs: 30.62 | Net: 92.09 | Eq: 24072.86 | DD: 5.95%
+OPEN LONG | Price: 0.6018 | SL: 0.598 | Risk: 1.01% | Size: 51296.94
+CLOSE [breakeven_stop] | Gross: 111.29 | Costs: 37.11 | Net: 74.19 | Eq: 24143.96 | DD: 5.95%
+OPEN LONG | Price: 0.6093 | SL: 0.6059 | Risk: 1.01% | Size: 56544.73
+CLOSE [breakeven_stop] | Gross: 214.01 | Costs: 38.02 | Net: 175.99 | Eq: 24319.95 | DD: 5.95%
+OPEN LONG | Price: 0.5833 | SL: 0.5801 | Risk: 1.1% | Size: 66003.77
+CLOSE [stop_loss] | Gross: -96.75 | Costs: 42.3 | Net: -139.05 | Eq: 24180.91 | DD: 5.95%
+Progress: 18.6% | Trades: 159 | Equity: 24180.91 | Fees: $3389.54 | Funding: $28.98
+OPEN LONG | Price: 0.561 | SL: 0.5549 | Risk: 1.01% | Size: 35054.81
+CLOSE [stop_loss] | Gross: -218.13 | Costs: 21.51 | Net: -239.64 | Eq: 23941.26 | DD: 5.95%
+OPEN LONG | Price: 0.5662 | SL: 0.5616 | Risk: 1.1% | Size: 48823.57
+CLOSE [breakeven_stop] | Gross: 134.97 | Costs: 30.7 | Net: 104.28 | Eq: 24045.54 | DD: 5.95%
+OPEN LONG | Price: 0.5622 | SL: 0.558 | Risk: 1.01% | Size: 48250.15
+CLOSE [stop_loss] | Gross: -206.69 | Costs: 29.73 | Net: -236.42 | Eq: 23809.13 | DD: 5.95%
+OPEN LONG | Price: 0.5655 | SL: 0.5619 | Risk: 1.1% | Size: 59521.11
+CLOSE [breakeven_stop] | Gross: 77.75 | Costs: 37.81 | Net: 39.94 | Eq: 23849.07 | DD: 5.95%
+OPEN LONG | Price: 0.5745 | SL: 0.5715 | Risk: 1.01% | Size: 62152.99
+CLOSE [breakeven_stop] | Gross: 66.56 | Costs: 39.32 | Net: 27.25 | Eq: 23876.31 | DD: 5.95%
+OPEN LONG | Price: 0.5717 | SL: 0.5684 | Risk: 1.01% | Size: 57968.26
+CLOSE [stop_loss] | Gross: -196.86 | Costs: 36.35 | Net: -233.21 | Eq: 23643.11 | DD: 5.95%
+OPEN LONG | Price: 0.572 | SL: 0.569 | Risk: 0.97% | Size: 58831.77
+CLOSE [stop_loss] | Gross: -183.41 | Costs: 40.28 | Net: -223.69 | Eq: 23416.05 | DD: 5.95%
+OPEN LONG | Price: 0.555 | SL: 0.5506 | Risk: 0.88% | Size: 39273.68
+CLOSE [stop_loss] | Gross: -176.61 | Costs: 23.88 | Net: -200.49 | Eq: 23215.56 | DD: 7.8%
+OPEN LONG | Price: 0.5301 | SL: 0.527 | Risk: 0.7% | Size: 41882.35
+CLOSE [breakeven_stop] | Gross: 47.17 | Costs: 24.45 | Net: 22.72 | Eq: 23238.28 | DD: 7.8%
+OPEN LONG | Price: 0.5251 | SL: 0.5217 | Risk: 0.7% | Size: 38900.71
+CLOSE [stop_loss] | Gross: -136.0 | Costs: 22.39 | Net: -158.4 | Eq: 23079.89 | DD: 7.8%
+OPEN LONG | Price: 0.5081 | SL: 0.5038 | Risk: 0.58% | Size: 26059.35
+CLOSE [stop_loss] | Gross: -95.45 | Costs: 14.51 | Net: -109.96 | Eq: 22969.93 | DD: 7.8%
+OPEN LONG | Price: 0.4993 | SL: 0.4941 | Risk: 0.58% | Size: 22094.45
+CLOSE [breakeven_stop] | Gross: 174.64 | Costs: 12.44 | Net: 162.2 | Eq: 23132.13 | DD: 7.8%
+OPEN LONG | Price: 0.5109 | SL: 0.5044 | Risk: 0.58% | Size: 18409.1
+CLOSE [breakeven_stop] | Gross: 62.44 | Costs: 10.38 | Net: 52.06 | Eq: 23184.2 | DD: 7.8%
+OPEN LONG | Price: 0.5139 | SL: 0.5101 | Risk: 0.58% | Size: 29399.53
+CLOSE [breakeven_stop] | Gross: 17.48 | Costs: 16.63 | Net: 0.85 | Eq: 23185.05 | DD: 7.8%
+OPEN LONG | Price: 0.5121 | SL: 0.5083 | Risk: 0.53% | Size: 26966.59
+CLOSE [stop_loss] | Gross: -103.76 | Costs: 15.13 | Net: -118.89 | Eq: 23066.16 | DD: 7.8%
+Progress: 20.0% | Trades: 174 | Equity: 23066.16 | Fees: $3761.68 | Funding: $32.34
+OPEN LONG | Price: 0.4805 | SL: 0.4758 | Risk: 0.53% | Size: 22496.91
+CLOSE [breakeven_stop] | Gross: 112.94 | Costs: 12.12 | Net: 100.82 | Eq: 23166.98 | DD: 7.8%
+OPEN LONG | Price: 0.4925 | SL: 0.49 | Risk: 0.7% | Size: 50749.32
+CLOSE [breakeven_stop] | Gross: 139.68 | Costs: 27.57 | Net: 112.11 | Eq: 23279.08 | DD: 7.8%
+OPEN LONG | Price: 0.5021 | SL: 0.497 | Risk: 0.7% | Size: 28102.29
+CLOSE [stop_loss] | Gross: -144.81 | Costs: 15.44 | Net: -160.26 | Eq: 23118.83 | DD: 7.8%
+OPEN LONG | Price: 0.5191 | SL: 0.5145 | Risk: 0.53% | Size: 22709.86
+CLOSE [breakeven_stop] | Gross: 29.87 | Costs: 12.98 | Net: 16.89 | Eq: 23135.72 | DD: 7.8%
+OPEN LONG | Price: 0.5223 | SL: 0.5183 | Risk: 0.58% | Size: 28068.44
+CLOSE [breakeven_stop] | Gross: 225.77 | Costs: 16.33 | Net: 209.44 | Eq: 23345.16 | DD: 7.8%
+OPEN LONG | Price: 0.5459 | SL: 0.5403 | Risk: 0.7% | Size: 25761.88
+CLOSE [breakeven_stop] | Gross: 30.23 | Costs: 15.64 | Net: 14.58 | Eq: 23359.74 | DD: 7.8%
+OPEN LONG | Price: 0.5589 | SL: 0.5555 | Risk: 0.88% | Size: 48297.66
+CLOSE [stop_loss] | Gross: -169.1 | Costs: 29.6 | Net: -198.7 | Eq: 23161.04 | DD: 7.8%
+OPEN LONG | Price: 0.5548 | SL: 0.5505 | Risk: 0.7% | Size: 31399.17
+CLOSE [breakeven_stop] | Gross: 251.67 | Costs: 19.3 | Net: 232.37 | Eq: 23393.41 | DD: 7.8%
+OPEN LONG | Price: 0.5467 | SL: 0.5427 | Risk: 0.88% | Size: 42457.73
+CLOSE [breakeven_stop] | Gross: 29.94 | Costs: 25.55 | Net: 4.39 | Eq: 23397.8 | DD: 7.8%
+OPEN LONG | Price: 0.5441 | SL: 0.5409 | Risk: 0.88% | Size: 50816.11
+CLOSE [breakeven_stop] | Gross: 366.95 | Costs: 30.62 | Net: 336.33 | Eq: 23734.14 | DD: 7.8%
+OPEN LONG | Price: 0.5344 | SL: 0.5313 | Risk: 0.88% | Size: 54026.39
+CLOSE [breakeven_stop] | Gross: 70.8 | Costs: 31.8 | Net: 39.0 | Eq: 23773.14 | DD: 7.8%
+OPEN LONG | Price: 0.5256 | SL: 0.5229 | Risk: 0.97% | Size: 66375.94
+CLOSE [breakeven_stop] | Gross: 270.18 | Costs: 38.52 | Net: 231.65 | Eq: 24004.79 | DD: 7.8%
+Progress: 21.4% | Trades: 186 | Equity: 24004.79 | Fees: $4037.16 | Funding: $32.34
+OPEN LONG | Price: 0.5705 | SL: 0.5666 | Risk: 1.01% | Size: 50624.57
+CLOSE [stop_loss] | Gross: -41.55 | Costs: 31.75 | Net: -73.29 | Eq: 23931.5 | DD: 7.8%
+OPEN LONG | Price: 0.566 | SL: 0.5622 | Risk: 1.1% | Size: 57049.12
+CLOSE [breakeven_stop] | Gross: 2649.77 | Costs: 37.58 | Net: 2612.19 | Eq: 26543.69 | DD: 7.8%
+OPEN LONG | Price: 0.6048 | SL: 0.5995 | Risk: 1.1% | Size: 46859.33
+CLOSE [stop_loss] | Gross: -156.15 | Costs: 31.09 | Net: -187.24 | Eq: 26356.44 | DD: 7.8%
+OPEN LONG | Price: 0.5383 | SL: 0.5355 | Risk: 1.01% | Size: 73356.66
+CLOSE [breakeven_stop] | Gross: 427.41 | Costs: 43.67 | Net: 383.74 | Eq: 26740.19 | DD: 7.8%
+OPEN LONG | Price: 0.5453 | SL: 0.5421 | Risk: 1.01% | Size: 67832.56
+CLOSE [stop_loss] | Gross: -220.64 | Costs: 40.57 | Net: -261.21 | Eq: 26478.98 | DD: 7.8%
+OPEN LONG | Price: 0.5437 | SL: 0.5407 | Risk: 1.01% | Size: 69449.99
+CLOSE [breakeven_stop] | Gross: 1529.6 | Costs: 46.15 | Net: 1483.45 | Eq: 27958.65 | DD: 7.8%
+OPEN LONG | Price: 0.5647 | SL: 0.5596 | Risk: 1.1% | Size: 51438.41
+CLOSE [breakeven_stop] | Gross: 213.78 | Costs: 33.04 | Net: 180.74 | Eq: 28139.38 | DD: 7.8%
+OPEN LONG | Price: 0.5678 | SL: 0.5642 | Risk: 1.1% | Size: 69783.98
+CLOSE [breakeven_stop] | Gross: 182.89 | Costs: 43.99 | Net: 138.9 | Eq: 28278.28 | DD: 7.8%
+OPEN LONG | Price: 0.5702 | SL: 0.5668 | Risk: 1.01% | Size: 67138.68
+CLOSE [breakeven_stop] | Gross: 78.74 | Costs: 43.0 | Net: 35.74 | Eq: 28314.02 | DD: 7.8%
+OPEN LONG | Price: 0.5673 | SL: 0.5644 | Risk: 1.01% | Size: 76317.66
+CLOSE [breakeven_stop] | Gross: 195.24 | Costs: 47.73 | Net: 147.5 | Eq: 28461.52 | DD: 7.8%
+Progress: 22.9% | Trades: 196 | Equity: 28461.52 | Fees: $4431.97 | Funding: $36.12
+OPEN LONG | Price: 0.5482 | SL: 0.5447 | Risk: 1.01% | Size: 67249.28
+CLOSE [breakeven_stop] | Gross: 120.04 | Costs: 40.62 | Net: 79.42 | Eq: 28540.94 | DD: 7.8%
+OPEN LONG | Price: 0.5502 | SL: 0.5468 | Risk: 1.01% | Size: 68242.69
+CLOSE [stop_loss] | Gross: -238.11 | Costs: 41.17 | Net: -279.28 | Eq: 28261.66 | DD: 7.8%
+Progress: 24.3% | Trades: 198 | Equity: 28261.66 | Fees: $4513.76 | Funding: $36.12
+OPEN LONG | Price: 0.5868 | SL: 0.5828 | Risk: 1.01% | Size: 58011.13
+CLOSE [breakeven_stop] | Gross: 102.26 | Costs: 37.5 | Net: 64.76 | Eq: 28326.42 | DD: 7.8%
+OPEN LONG | Price: 0.6157 | SL: 0.6117 | Risk: 1.01% | Size: 58012.09
+CLOSE [breakeven_stop] | Gross: 2393.53 | Costs: 40.8 | Net: 2352.73 | Eq: 30679.14 | DD: 7.8%
+OPEN LONG | Price: 0.6662 | SL: 0.6611 | Risk: 1.01% | Size: 50284.31
+CLOSE [breakeven_stop] | Gross: 283.9 | Costs: 37.01 | Net: 246.89 | Eq: 30926.03 | DD: 7.8%
+OPEN LONG | Price: 0.6707 | SL: 0.6667 | Risk: 1.1% | Size: 67242.03
+CLOSE [breakeven_stop] | Gross: 203.4 | Costs: 49.72 | Net: 153.68 | Eq: 31079.71 | DD: 7.8%
+OPEN LONG | Price: 0.6758 | SL: 0.6713 | Risk: 1.01% | Size: 57044.03
+CLOSE [stop_loss] | Gross: -262.44 | Costs: 42.26 | Net: -304.71 | Eq: 30775.01 | DD: 7.8%
+OPEN LONG | Price: 0.6766 | SL: 0.6713 | Risk: 1.01% | Size: 49041.0
+CLOSE [breakeven_stop] | Gross: 373.61 | Costs: 36.71 | Net: 336.9 | Eq: 31111.91 | DD: 7.8%
+OPEN LONG | Price: 0.6819 | SL: 0.6768 | Risk: 1.01% | Size: 50976.08
+CLOSE [breakeven_stop] | Gross: 66.64 | Costs: 38.66 | Net: 27.98 | Eq: 31139.89 | DD: 7.8%
+OPEN LONG | Price: 0.6872 | SL: 0.6819 | Risk: 1.01% | Size: 49665.66
+CLOSE [breakeven_stop] | Gross: 297.53 | Costs: 41.12 | Net: 256.41 | Eq: 31392.88 | DD: 7.8%
+OPEN LONG | Price: 0.6884 | SL: 0.683 | Risk: 1.1% | Size: 53169.34
+CLOSE [breakeven_stop] | Gross: 29.64 | Costs: 40.28 | Net: -10.64 | Eq: 31382.25 | DD: 7.8%
+OPEN LONG | Price: 0.6596 | SL: 0.6556 | Risk: 1.01% | Size: 63697.6
+CLOSE [breakeven_stop] | Gross: 174.29 | Costs: 46.31 | Net: 127.98 | Eq: 31510.23 | DD: 7.8%
+OPEN LONG | Price: 0.6559 | SL: 0.6521 | Risk: 1.01% | Size: 65870.87
+CLOSE [breakeven_stop] | Gross: 55.73 | Costs: 47.56 | Net: 8.17 | Eq: 31518.39 | DD: 7.8%
+OPEN LONG | Price: 0.6442 | SL: 0.6409 | Risk: 1.01% | Size: 73836.22
+CLOSE [breakeven_stop] | Gross: 251.48 | Costs: 52.99 | Net: 198.5 | Eq: 31716.89 | DD: 7.8%
+OPEN LONG | Price: 0.658 | SL: 0.6546 | Risk: 1.01% | Size: 72514.87
+CLOSE [breakeven_stop] | Gross: 291.76 | Costs: 52.65 | Net: 239.11 | Eq: 31956.0 | DD: 7.8%
+Progress: 25.7% | Trades: 211 | Equity: 31956.0 | Fees: $5073.92 | Funding: $39.53
+OPEN LONG | Price: 0.6646 | SL: 0.6609 | Risk: 1.01% | Size: 69062.13
+CLOSE [breakeven_stop] | Gross: 59.2 | Costs: 50.52 | Net: 8.68 | Eq: 31964.68 | DD: 7.8%
+OPEN LONG | Price: 0.6554 | SL: 0.6507 | Risk: 1.01% | Size: 56458.38
+CLOSE [breakeven_stop] | Gross: 1965.9 | Costs: 41.79 | Net: 1924.12 | Eq: 33888.79 | DD: 7.8%
+OPEN LONG | Price: 0.6769 | SL: 0.6691 | Risk: 1.01% | Size: 38856.79
+CLOSE [breakeven_stop] | Gross: 104.86 | Costs: 28.99 | Net: 75.86 | Eq: 33964.66 | DD: 7.8%
+OPEN LONG | Price: 0.677 | SL: 0.6724 | Risk: 1.1% | Size: 66815.94
+CLOSE [breakeven_stop] | Gross: 2296.02 | Costs: 52.53 | Net: 2243.49 | Eq: 36208.15 | DD: 7.8%
+OPEN LONG | Price: 0.7129 | SL: 0.7063 | Risk: 1.01% | Size: 47512.13
+CLOSE [breakeven_stop] | Gross: 60.39 | Costs: 37.29 | Net: 23.09 | Eq: 36231.24 | DD: 7.8%
+OPEN LONG | Price: 0.722 | SL: 0.715 | Risk: 1.01% | Size: 45142.11
+CLOSE [breakeven_stop] | Gross: 184.19 | Costs: 36.68 | Net: 147.52 | Eq: 36378.76 | DD: 7.8%
+OPEN LONG | Price: 0.6993 | SL: 0.6926 | Risk: 1.01% | Size: 47465.93
+CLOSE [breakeven_stop] | Gross: 529.45 | Costs: 36.81 | Net: 492.64 | Eq: 36871.4 | DD: 7.8%
+OPEN LONG | Price: 0.7195 | SL: 0.713 | Risk: 1.1% | Size: 53605.69
+CLOSE [stop_loss] | Gross: -354.94 | Costs: 42.23 | Net: -397.17 | Eq: 36474.23 | DD: 7.8%
+OPEN LONG | Price: 0.7213 | SL: 0.7134 | Risk: 1.01% | Size: 40916.4
+CLOSE [breakeven_stop] | Gross: 161.57 | Costs: 32.88 | Net: 128.69 | Eq: 36602.92 | DD: 7.8%
+OPEN LONG | Price: 0.7204 | SL: 0.7133 | Risk: 1.1% | Size: 49310.39
+CLOSE [breakeven_stop] | Gross: 190.84 | Costs: 39.46 | Net: 151.39 | Eq: 36754.31 | DD: 7.8%
+OPEN LONG | Price: 0.7198 | SL: 0.713 | Risk: 1.01% | Size: 47182.25
+CLOSE [breakeven_stop] | Gross: 1130.83 | Costs: 37.98 | Net: 1092.85 | Eq: 37847.16 | DD: 7.8%
+OPEN LONG | Price: 0.7856 | SL: 0.7761 | Risk: 1.01% | Size: 36000.7
+CLOSE [breakeven_stop] | Gross: 101.63 | Costs: 31.16 | Net: 70.47 | Eq: 37917.62 | DD: 7.8%
+OPEN LONG | Price: 0.7855 | SL: 0.7765 | Risk: 1.01% | Size: 38021.05
+CLOSE [stop_loss] | Gross: -343.36 | Costs: 32.66 | Net: -376.02 | Eq: 37541.6 | DD: 7.8%
+OPEN LONG | Price: 0.7847 | SL: 0.7772 | Risk: 1.01% | Size: 44166.67
+CLOSE [breakeven_stop] | Gross: 1022.43 | Costs: 42.15 | Net: 980.28 | Eq: 38518.42 | DD: 7.8%
+OPEN LONG | Price: 0.7768 | SL: 0.7681 | Risk: 1.1% | Size: 43341.05
+CLOSE [breakeven_stop] | Gross: 27.26 | Costs: 37.05 | Net: -9.78 | Eq: 38508.64 | DD: 7.8%
+Progress: 27.1% | Trades: 226 | Equity: 38508.64 | Fees: $5650.64 | Funding: $43.0
+OPEN LONG | Price: 0.7682 | SL: 0.7593 | Risk: 1.01% | Size: 38878.76
+CLOSE [stop_loss] | Gross: -349.34 | Costs: 35.65 | Net: -384.98 | Eq: 38120.67 | DD: 7.8%
+OPEN LONG | Price: 0.7707 | SL: 0.7648 | Risk: 1.1% | Size: 60347.28
+CLOSE [breakeven_stop] | Gross: 148.01 | Costs: 56.92 | Net: 91.09 | Eq: 38207.11 | DD: 7.8%
+OPEN LONG | Price: 0.7689 | SL: 0.7638 | Risk: 1.1% | Size: 68036.49
+CLOSE [breakeven_stop] | Gross: 582.01 | Costs: 58.26 | Net: 523.74 | Eq: 38730.85 | DD: 7.8%
+OPEN LONG | Price: 0.7751 | SL: 0.7694 | Risk: 1.01% | Size: 57114.97
+CLOSE [breakeven_stop] | Gross: 127.52 | Costs: 48.76 | Net: 78.76 | Eq: 38809.6 | DD: 7.8%
+OPEN LONG | Price: 0.7767 | SL: 0.7688 | Risk: 1.01% | Size: 43757.4
+CLOSE [breakeven_stop] | Gross: 223.33 | Costs: 37.51 | Net: 185.82 | Eq: 38995.43 | DD: 7.8%
+OPEN LONG | Price: 0.7806 | SL: 0.7738 | Risk: 1.01% | Size: 50025.25
+CLOSE [breakeven_stop] | Gross: 243.43 | Costs: 43.09 | Net: 200.34 | Eq: 39195.77 | DD: 7.8%
+OPEN LONG | Price: 0.7959 | SL: 0.7896 | Risk: 1.01% | Size: 53236.46
+CLOSE [breakeven_stop] | Gross: 135.05 | Costs: 46.68 | Net: 88.37 | Eq: 39284.14 | DD: 7.8%
+OPEN LONG | Price: 0.7879 | SL: 0.7807 | Risk: 1.01% | Size: 47430.88
+CLOSE [stop_loss] | Gross: -347.06 | Costs: 40.91 | Net: -387.97 | Eq: 38896.17 | DD: 7.8%
+OPEN LONG | Price: 0.8051 | SL: 0.7999 | Risk: 1.01% | Size: 61363.3
+CLOSE [breakeven_stop] | Gross: 74.46 | Costs: 54.93 | Net: 19.54 | Eq: 38915.71 | DD: 7.8%
+OPEN LONG | Price: 0.7615 | SL: 0.7555 | Risk: 1.01% | Size: 55223.86
+CLOSE [breakeven_stop] | Gross: 132.16 | Costs: 46.33 | Net: 85.83 | Eq: 39001.54 | DD: 7.8%
+OPEN LONG | Price: 0.7619 | SL: 0.7553 | Risk: 1.01% | Size: 51117.43
+CLOSE [stop_loss] | Gross: -342.07 | Costs: 42.65 | Net: -384.72 | Eq: 38616.82 | DD: 7.8%
+OPEN LONG | Price: 0.8061 | SL: 0.7969 | Risk: 1.1% | Size: 41112.6
+CLOSE [stop_loss] | Gross: -375.58 | Costs: 36.25 | Net: -411.83 | Eq: 38204.99 | DD: 7.8%
+OPEN LONG | Price: 0.7846 | SL: 0.7769 | Risk: 1.01% | Size: 43590.52
+CLOSE [breakeven_stop] | Gross: 446.03 | Costs: 41.76 | Net: 404.27 | Eq: 38605.82 | DD: 7.8%
+OPEN LONG | Price: 0.7125 | SL: 0.7052 | Risk: 1.1% | Size: 50497.15
+CLOSE [stop_loss] | Gross: -237.18 | Costs: 39.45 | Net: -276.63 | Eq: 38329.19 | DD: 7.8%
+OPEN LONG | Price: 0.7041 | SL: 0.6986 | Risk: 1.1% | Size: 64262.44
+CLOSE [stop_loss] | Gross: -87.6 | Costs: 49.73 | Net: -137.32 | Eq: 38191.86 | DD: 7.8%
+OPEN LONG | Price: 0.6886 | SL: 0.6825 | Risk: 1.1% | Size: 58699.81
+CLOSE [breakeven_stop] | Gross: 80.28 | Costs: 44.51 | Net: 35.77 | Eq: 38227.63 | DD: 7.8%
+OPEN LONG | Price: 0.6882 | SL: 0.6833 | Risk: 0.97% | Size: 61635.03
+CLOSE [breakeven_stop] | Gross: 684.31 | Costs: 47.04 | Net: 637.28 | Eq: 38864.91 | DD: 7.8%
+OPEN LONG | Price: 0.7 | SL: 0.6952 | Risk: 0.97% | Size: 63610.13
+Progress: 28.6% | Trades: 243 | Equity: 38864.91 | Fees: $6409.97 | Funding: $54.08
+CLOSE [breakeven_stop] | Gross: 75.43 | Costs: 49.02 | Net: 26.41 | Eq: 38891.31 | DD: 7.8%
+OPEN LONG | Price: 0.6812 | SL: 0.6744 | Risk: 1.1% | Size: 54568.46
+CLOSE [breakeven_stop] | Gross: 53.01 | Costs: 41.33 | Net: 11.68 | Eq: 38902.99 | DD: 7.8%
+OPEN LONG | Price: 0.6799 | SL: 0.6749 | Risk: 1.06% | Size: 68202.42
+CLOSE [breakeven_stop] | Gross: 163.29 | Costs: 51.46 | Net: 111.84 | Eq: 39014.83 | DD: 7.8%
+OPEN LONG | Price: 0.6832 | SL: 0.6755 | Risk: 0.97% | Size: 43215.18
+CLOSE [stop_loss] | Gross: -337.75 | Costs: 32.29 | Net: -370.05 | Eq: 38644.78 | DD: 7.8%
+OPEN LONG | Price: 0.6879 | SL: 0.6822 | Risk: 1.06% | Size: 60716.74
+CLOSE [breakeven_stop] | Gross: 96.83 | Costs: 46.46 | Net: 50.37 | Eq: 38695.15 | DD: 7.8%
+OPEN LONG | Price: 0.694 | SL: 0.6892 | Risk: 0.97% | Size: 63892.52
+CLOSE [breakeven_stop] | Gross: 1640.06 | Costs: 49.92 | Net: 1590.14 | Eq: 40285.29 | DD: 7.8%
+OPEN LONG | Price: 0.7233 | SL: 0.7197 | Risk: 1.01% | Size: 85455.9
+CLOSE [breakeven_stop] | Gross: 79.73 | Costs: 74.22 | Net: 5.51 | Eq: 40284.62 | DD: 7.8%
+OPEN LONG | Price: 0.8131 | SL: 0.796 | Risk: 1.01% | Size: 22305.97
+CLOSE [breakeven_stop] | Gross: 819.57 | Costs: 22.21 | Net: 797.35 | Eq: 41080.16 | DD: 7.8%
+OPEN LONG | Price: 0.8137 | SL: 0.8058 | Risk: 1.01% | Size: 45653.6
+CLOSE [breakeven_stop] | Gross: 30.08 | Costs: 40.88 | Net: -10.79 | Eq: 41069.36 | DD: 7.8%
+OPEN LONG | Price: 0.7859 | SL: 0.7777 | Risk: 1.1% | Size: 48640.11
+CLOSE [breakeven_stop] | Gross: 156.49 | Costs: 42.55 | Net: 113.94 | Eq: 41183.3 | DD: 7.8%
+OPEN LONG | Price: 0.7934 | SL: 0.786 | Risk: 1.1% | Size: 53039.44
+CLOSE [breakeven_stop] | Gross: 44.18 | Costs: 46.31 | Net: -2.14 | Eq: 41181.17 | DD: 7.8%
+OPEN LONG | Price: 0.7738 | SL: 0.7648 | Risk: 1.01% | Size: 41146.65
+Progress: 30.0% | Trades: 254 | Equity: 41181.17 | Fees: $6898.64 | Funding: $62.07
+CLOSE [breakeven_stop] | Gross: 240.79 | Costs: 35.15 | Net: 205.64 | Eq: 41386.81 | DD: 7.8%
+OPEN LONG | Price: 0.7685 | SL: 0.7622 | Risk: 1.1% | Size: 61841.62
+CLOSE [breakeven_stop] | Gross: 90.75 | Costs: 52.32 | Net: 38.42 | Eq: 41425.23 | DD: 7.8%
+OPEN LONG | Price: 0.724 | SL: 0.7178 | Risk: 1.01% | Size: 57173.34
+CLOSE [stop_loss] | Gross: -363.29 | Costs: 45.34 | Net: -408.62 | Eq: 41016.61 | DD: 7.8%
+OPEN LONG | Price: 0.7212 | SL: 0.7156 | Risk: 1.01% | Size: 61497.05
+CLOSE [breakeven_stop] | Gross: 69.98 | Costs: 48.83 | Net: 21.15 | Eq: 41037.76 | DD: 7.8%
+OPEN LONG | Price: 0.7049 | SL: 0.6985 | Risk: 1.01% | Size: 55240.11
+CLOSE [breakeven_stop] | Gross: 268.31 | Costs: 42.98 | Net: 225.33 | Eq: 41263.08 | DD: 7.8%
+OPEN LONG | Price: 0.6771 | SL: 0.6712 | Risk: 1.01% | Size: 59979.1
+CLOSE [stop_loss] | Gross: -362.7 | Costs: 44.48 | Net: -407.18 | Eq: 40855.91 | DD: 7.8%
+OPEN LONG | Price: 0.6664 | SL: 0.6614 | Risk: 1.01% | Size: 68996.46
+CLOSE [breakeven_stop] | Gross: 59.31 | Costs: 50.61 | Net: 8.69 | Eq: 40864.6 | DD: 7.8%
+OPEN LONG | Price: 0.6438 | SL: 0.6374 | Risk: 1.01% | Size: 56172.25
+CLOSE [breakeven_stop] | Gross: 236.31 | Costs: 39.91 | Net: 196.4 | Eq: 41061.0 | DD: 7.8%
+OPEN LONG | Price: 0.6565 | SL: 0.6509 | Risk: 1.01% | Size: 62866.88
+CLOSE [breakeven_stop] | Gross: 43.33 | Costs: 45.43 | Net: -2.09 | Eq: 41058.9 | DD: 7.8%
+OPEN LONG | Price: 0.6573 | SL: 0.6509 | Risk: 1.01% | Size: 55879.0
+CLOSE [stop_loss] | Gross: -365.88 | Costs: 40.2 | Net: -406.08 | Eq: 40652.82 | DD: 7.8%
+OPEN LONG | Price: 0.6501 | SL: 0.6459 | Risk: 1.01% | Size: 79168.05
+CLOSE [breakeven_stop] | Gross: 111.66 | Costs: 56.68 | Net: 54.98 | Eq: 40707.8 | DD: 7.8%
+OPEN LONG | Price: 0.6286 | SL: 0.6244 | Risk: 1.01% | Size: 79113.74
+CLOSE [breakeven_stop] | Gross: 219.8 | Costs: 54.83 | Net: 164.97 | Eq: 40872.78 | DD: 7.8%
+Progress: 31.4% | Trades: 266 | Equity: 40872.78 | Fees: $7455.4 | Funding: $62.07
+OPEN LONG | Price: 0.6632 | SL: 0.6598 | Risk: 1.01% | Size: 94424.51
+CLOSE [breakeven_stop] | Gross: 336.44 | Costs: 70.46 | Net: 265.98 | Eq: 41138.76 | DD: 7.8%
+OPEN LONG | Price: 0.6858 | SL: 0.6809 | Risk: 1.01% | Size: 70010.31
+CLOSE [breakeven_stop] | Gross: 1738.52 | Costs: 53.77 | Net: 1684.75 | Eq: 42823.51 | DD: 7.8%
+OPEN LONG | Price: 0.7018 | SL: 0.697 | Risk: 1.01% | Size: 73374.45
+CLOSE [stop_loss] | Gross: -45.61 | Costs: 56.62 | Net: -102.23 | Eq: 42721.27 | DD: 7.8%
+OPEN LONG | Price: 0.7091 | SL: 0.7054 | Risk: 1.01% | Size: 89218.36
+CLOSE [breakeven_stop] | Gross: 109.13 | Costs: 75.98 | Net: 33.14 | Eq: 42748.09 | DD: 7.8%
+OPEN LONG | Price: 0.683 | SL: 0.6795 | Risk: 1.01% | Size: 95313.03
+CLOSE [breakeven_stop] | Gross: 390.0 | Costs: 71.83 | Net: 318.17 | Eq: 43066.26 | DD: 7.8%
+OPEN LONG | Price: 0.6546 | SL: 0.6499 | Risk: 1.01% | Size: 76225.33
+CLOSE [breakeven_stop] | Gross: 751.07 | Costs: 55.58 | Net: 695.5 | Eq: 43761.76 | DD: 7.8%
+OPEN LONG | Price: 0.6714 | SL: 0.6677 | Risk: 1.01% | Size: 94155.72
+CLOSE [breakeven_stop] | Gross: 245.83 | Costs: 69.68 | Net: 176.16 | Eq: 43937.91 | DD: 7.8%
+OPEN LONG | Price: 0.6987 | SL: 0.6948 | Risk: 1.01% | Size: 88900.44
+CLOSE [stop_loss] | Gross: -133.46 | Costs: 68.26 | Net: -201.72 | Eq: 43736.19 | DD: 7.8%
+OPEN LONG | Price: 0.6986 | SL: 0.6949 | Risk: 1.01% | Size: 92871.86
+CLOSE [breakeven_stop] | Gross: 309.59 | Costs: 71.54 | Net: 238.04 | Eq: 43974.24 | DD: 7.8%
+OPEN LONG | Price: 0.7106 | SL: 0.7069 | Risk: 1.01% | Size: 93234.74
+CLOSE [breakeven_stop] | Gross: 85.46 | Costs: 79.55 | Net: 5.9 | Eq: 43973.51 | DD: 7.8%
+OPEN LONG | Price: 0.7266 | SL: 0.7217 | Risk: 1.01% | Size: 73417.4
+CLOSE [breakeven_stop] | Gross: 821.79 | Costs: 64.76 | Net: 757.02 | Eq: 44725.2 | DD: 7.8%
+OPEN LONG | Price: 0.7358 | SL: 0.7311 | Risk: 1.1% | Size: 84556.47
+CLOSE [stop_loss] | Gross: -120.06 | Costs: 68.38 | Net: -188.43 | Eq: 44536.77 | DD: 7.8%
+OPEN LONG | Price: 0.74 | SL: 0.7356 | Risk: 1.1% | Size: 87811.13
+CLOSE [breakeven_stop] | Gross: 52.63 | Costs: 71.51 | Net: -18.88 | Eq: 44517.88 | DD: 7.8%
+OPEN LONG | Price: 0.738 | SL: 0.7338 | Risk: 1.01% | Size: 84379.64
+CLOSE [stop_loss] | Gross: -366.39 | Costs: 68.3 | Net: -434.7 | Eq: 44083.19 | DD: 7.8%
+OPEN LONG | Price: 0.7463 | SL: 0.7406 | Risk: 1.01% | Size: 64506.21
+Progress: 32.9% | Trades: 280 | Equity: 44083.19 | Fees: $8383.33 | Funding: $80.36
+CLOSE [breakeven_stop] | Gross: 588.7 | Costs: 53.55 | Net: 535.16 | Eq: 44618.34 | DD: 7.8%
+OPEN LONG | Price: 0.7555 | SL: 0.7502 | Risk: 1.1% | Size: 77299.24
+CLOSE [breakeven_stop] | Gross: 211.42 | Costs: 64.99 | Net: 146.43 | Eq: 44764.77 | DD: 7.8%
+OPEN LONG | Price: 0.7643 | SL: 0.7599 | Risk: 1.01% | Size: 82582.42
+CLOSE [breakeven_stop] | Gross: 2391.81 | Costs: 71.44 | Net: 2320.37 | Eq: 47085.14 | DD: 7.8%
+OPEN LONG | Price: 0.7946 | SL: 0.7901 | Risk: 1.01% | Size: 84672.98
+CLOSE [breakeven_stop] | Gross: 182.73 | Costs: 74.11 | Net: 108.62 | Eq: 47193.77 | DD: 7.8%
+OPEN LONG | Price: 0.794 | SL: 0.7897 | Risk: 1.01% | Size: 88242.52
+CLOSE [breakeven_stop] | Gross: 90.36 | Costs: 77.12 | Net: 13.25 | Eq: 47207.01 | DD: 7.8%
+OPEN LONG | Price: 0.8069 | SL: 0.8028 | Risk: 1.01% | Size: 90634.49
+CLOSE [breakeven_stop] | Gross: 241.76 | Costs: 80.58 | Net: 161.19 | Eq: 47368.2 | DD: 7.8%
+OPEN LONG | Price: 0.7997 | SL: 0.7942 | Risk: 1.1% | Size: 78475.77
+CLOSE [stop_loss] | Gross: -243.9 | Costs: 68.9 | Net: -312.8 | Eq: 47055.4 | DD: 7.8%
+OPEN LONG | Price: 0.7641 | SL: 0.76 | Risk: 1.1% | Size: 100391.63
+CLOSE [breakeven_stop] | Gross: 171.95 | Costs: 85.06 | Net: 86.89 | Eq: 47142.29 | DD: 7.8%
+OPEN LONG | Price: 0.7755 | SL: 0.7698 | Risk: 1.01% | Size: 69949.74
+CLOSE [breakeven_stop] | Gross: 439.47 | Costs: 59.91 | Net: 379.56 | Eq: 47521.85 | DD: 7.8%
+OPEN LONG | Price: 0.786 | SL: 0.7809 | Risk: 1.01% | Size: 76855.07
+CLOSE [breakeven_stop] | Gross: 1288.02 | Costs: 67.49 | Net: 1220.54 | Eq: 48742.39 | DD: 7.8%
+OPEN LONG | Price: 0.805 | SL: 0.7995 | Risk: 1.01% | Size: 74053.75
+CLOSE [stop_loss] | Gross: -115.17 | Costs: 65.51 | Net: -180.67 | Eq: 48561.71 | DD: 7.8%
+OPEN LONG | Price: 0.7983 | SL: 0.7934 | Risk: 1.01% | Size: 81361.67
+CLOSE [breakeven_stop] | Gross: 102.47 | Costs: 71.5 | Net: 30.97 | Eq: 48592.69 | DD: 7.8%
+OPEN LONG | Price: 0.7709 | SL: 0.7631 | Risk: 1.01% | Size: 54906.49
+CLOSE [stop_loss] | Gross: -434.56 | Costs: 46.32 | Net: -480.87 | Eq: 48111.81 | DD: 7.8%
+OPEN LONG | Price: 0.748 | SL: 0.7442 | Risk: 1.01% | Size: 97784.76
+CLOSE [breakeven_stop] | Gross: 532.83 | Costs: 81.56 | Net: 451.26 | Eq: 48563.08 | DD: 7.8%
+OPEN LONG | Price: 0.7586 | SL: 0.7533 | Risk: 1.01% | Size: 77325.79
+CLOSE [breakeven_stop] | Gross: 279.37 | Costs: 65.45 | Net: 213.91 | Eq: 48776.99 | DD: 7.8%
+OPEN LONG | Price: 0.7536 | SL: 0.749 | Risk: 1.01% | Size: 86195.97
+CLOSE [breakeven_stop] | Gross: 192.51 | Costs: 72.05 | Net: 120.46 | Eq: 48897.45 | DD: 7.8%
+OPEN LONG | Price: 0.7479 | SL: 0.7431 | Risk: 1.01% | Size: 83109.95
+CLOSE [stop_loss] | Gross: -371.39 | Costs: 68.17 | Net: -439.56 | Eq: 48457.89 | DD: 7.8%
+OPEN LONG | Price: 0.7784 | SL: 0.773 | Risk: 1.01% | Size: 75283.49
+CLOSE [breakeven_stop] | Gross: 283.76 | Costs: 64.61 | Net: 219.14 | Eq: 48677.03 | DD: 7.8%
+OPEN LONG | Price: 0.7851 | SL: 0.7798 | Risk: 1.01% | Size: 77154.66
+CLOSE [breakeven_stop] | Gross: 78.12 | Costs: 66.67 | Net: 11.45 | Eq: 48688.48 | DD: 7.8%
+OPEN LONG | Price: 0.7889 | SL: 0.7832 | Risk: 1.01% | Size: 71583.17
+CLOSE [breakeven_stop] | Gross: 72.83 | Costs: 62.16 | Net: 10.68 | Eq: 48699.16 | DD: 7.8%
+OPEN LONG | Price: 0.7935 | SL: 0.7884 | Risk: 1.1% | Size: 86058.95
+CLOSE [breakeven_stop] | Gross: 141.93 | Costs: 75.94 | Net: 65.99 | Eq: 48765.15 | DD: 7.8%
+OPEN LONG | Price: 0.8162 | SL: 0.8116 | Risk: 1.1% | Size: 93351.43
+CLOSE [breakeven_stop] | Gross: 93.68 | Costs: 83.86 | Net: 9.82 | Eq: 48774.97 | DD: 7.8%
+OPEN LONG | Price: 0.809 | SL: 0.8035 | Risk: 1.01% | Size: 74036.54
+CLOSE [breakeven_stop] | Gross: 421.03 | Costs: 66.11 | Net: 354.91 | Eq: 49129.88 | DD: 7.8%
+OPEN LONG | Price: 0.8223 | SL: 0.8085 | Risk: 1.01% | Size: 33214.69
+CLOSE [breakeven_stop] | Gross: 300.79 | Costs: 30.21 | Net: 270.58 | Eq: 49400.46 | DD: 7.8%
+OPEN LONG | Price: 0.8498 | SL: 0.8379 | Risk: 1.01% | Size: 38153.4
+CLOSE [breakeven_stop] | Gross: 216.17 | Costs: 36.86 | Net: 179.31 | Eq: 49579.77 | DD: 7.8%
+OPEN LONG | Price: 0.8417 | SL: 0.8354 | Risk: 1.01% | Size: 66252.86
+Progress: 34.3% | Trades: 305 | Equity: 49579.77 | Fees: $10043.45 | Funding: $80.36
+CLOSE [breakeven_stop] | Gross: 1839.88 | Costs: 62.35 | Net: 1777.53 | Eq: 51357.3 | DD: 7.8%
+OPEN LONG | Price: 0.7771 | SL: 0.767 | Risk: 1.01% | Size: 46429.22
+CLOSE [breakeven_stop] | Gross: 297.84 | Costs: 40.53 | Net: 257.31 | Eq: 51614.61 | DD: 7.8%
+OPEN LONG | Price: 0.7192 | SL: 0.7135 | Risk: 1.1% | Size: 84059.09
+CLOSE [breakeven_stop] | Gross: 36.17 | Costs: 67.19 | Net: -31.02 | Eq: 51583.59 | DD: 7.8%
+OPEN LONG | Price: 0.717 | SL: 0.713 | Risk: 1.01% | Size: 101212.78
+CLOSE [breakeven_stop] | Gross: 417.27 | Costs: 80.06 | Net: 337.21 | Eq: 51920.81 | DD: 7.8%
+OPEN LONG | Price: 0.7491 | SL: 0.7451 | Risk: 1.01% | Size: 101981.43
+CLOSE [breakeven_stop] | Gross: 354.05 | Costs: 93.16 | Net: 260.89 | Eq: 52173.95 | DD: 7.8%
+OPEN LONG | Price: 0.7755 | SL: 0.7706 | Risk: 1.01% | Size: 87288.7
+CLOSE [breakeven_stop] | Gross: 301.04 | Costs: 74.62 | Net: 226.42 | Eq: 52400.37 | DD: 7.8%
+OPEN LONG | Price: 0.729 | SL: 0.7247 | Risk: 1.01% | Size: 96655.22
+CLOSE [breakeven_stop] | Gross: 281.43 | Costs: 77.67 | Net: 203.76 | Eq: 52604.13 | DD: 7.8%
+OPEN LONG | Price: 0.7289 | SL: 0.7247 | Risk: 1.1% | Size: 108395.23
+CLOSE [breakeven_stop] | Gross: 67.66 | Costs: 87.82 | Net: -20.16 | Eq: 52583.97 | DD: 7.8%
+Progress: 35.7% | Trades: 313 | Equity: 52583.97 | Fees: $10619.11 | Funding: $88.11
+OPEN LONG | Price: 0.7023 | SL: 0.6972 | Risk: 1.01% | Size: 85437.72
+CLOSE [stop_loss] | Gross: -451.07 | Costs: 65.76 | Net: -516.83 | Eq: 52067.13 | DD: 7.8%
+OPEN LONG | Price: 0.709 | SL: 0.7043 | Risk: 1.01% | Size: 91535.95
+CLOSE [breakeven_stop] | Gross: 324.03 | Costs: 71.57 | Net: 252.46 | Eq: 52319.59 | DD: 7.8%
+OPEN LONG | Price: 0.7157 | SL: 0.7098 | Risk: 1.01% | Size: 74965.56
+CLOSE [breakeven_stop] | Gross: 780.08 | Costs: 60.34 | Net: 719.74 | Eq: 53039.33 | DD: 7.8%
+OPEN LONG | Price: 0.7037 | SL: 0.6998 | Risk: 1.1% | Size: 118159.84
+CLOSE [breakeven_stop] | Gross: 707.33 | Costs: 93.42 | Net: 613.92 | Eq: 53653.25 | DD: 7.8%
+OPEN LONG | Price: 0.7483 | SL: 0.7351 | Risk: 1.01% | Size: 37910.28
+CLOSE [breakeven_stop] | Gross: 210.84 | Costs: 31.64 | Net: 179.2 | Eq: 53832.45 | DD: 7.8%
+OPEN LONG | Price: 0.7501 | SL: 0.7424 | Risk: 1.01% | Size: 61185.63
+CLOSE [breakeven_stop] | Gross: 996.77 | Costs: 51.29 | Net: 945.48 | Eq: 54777.93 | DD: 7.8%
+OPEN LONG | Price: 0.7687 | SL: 0.7602 | Risk: 1.1% | Size: 63092.39
+CLOSE [breakeven_stop] | Gross: 926.37 | Costs: 55.47 | Net: 870.9 | Eq: 55648.83 | DD: 7.8%
+OPEN LONG | Price: 0.7768 | SL: 0.7702 | Risk: 1.01% | Size: 73028.81
+CLOSE [breakeven_stop] | Gross: 133.6 | Costs: 62.47 | Net: 71.13 | Eq: 55719.96 | DD: 7.8%
+OPEN LONG | Price: 0.7904 | SL: 0.7844 | Risk: 1.1% | Size: 86382.06
+CLOSE [breakeven_stop] | Gross: 566.04 | Costs: 76.16 | Net: 489.88 | Eq: 56209.84 | DD: 7.8%
+OPEN LONG | Price: 0.7944 | SL: 0.7883 | Risk: 1.01% | Size: 78052.44
+CLOSE [breakeven_stop] | Gross: 461.74 | Costs: 69.28 | Net: 392.47 | Eq: 56602.31 | DD: 7.8%
+OPEN LONG | Price: 0.7796 | SL: 0.7752 | Risk: 1.1% | Size: 114104.29
+CLOSE [breakeven_stop] | Gross: 330.82 | Costs: 99.99 | Net: 230.83 | Eq: 56833.14 | DD: 7.8%
+OPEN LONG | Price: 0.7815 | SL: 0.7775 | Risk: 1.1% | Size: 121646.02
+CLOSE [breakeven_stop] | Gross: 166.67 | Costs: 106.76 | Net: 59.91 | Eq: 56893.05 | DD: 7.8%
+OPEN LONG | Price: 0.7848 | SL: 0.7805 | Risk: 1.01% | Size: 105602.23
+CLOSE [breakeven_stop] | Gross: 462.21 | Costs: 99.7 | Net: 362.51 | Eq: 57247.27 | DD: 7.8%
+OPEN LONG | Price: 0.792 | SL: 0.7879 | Risk: 1.1% | Size: 119680.82
+CLOSE [stop_loss] | Gross: -140.74 | Costs: 104.18 | Net: -244.92 | Eq: 57002.35 | DD: 7.8%
+Progress: 37.1% | Trades: 327 | Equity: 57002.35 | Fees: $11658.85 | Funding: $96.4
+OPEN LONG | Price: 0.7698 | SL: 0.7637 | Risk: 1.1% | Size: 87695.2
+CLOSE [breakeven_stop] | Gross: 610.96 | Costs: 75.86 | Net: 535.11 | Eq: 57537.46 | DD: 7.8%
+OPEN LONG | Price: 0.7774 | SL: 0.772 | Risk: 1.01% | Size: 89705.15
+CLOSE [breakeven_stop] | Gross: 61.72 | Costs: 78.28 | Net: -16.56 | Eq: 57520.9 | DD: 7.8%
+OPEN LONG | Price: 0.6855 | SL: 0.6794 | Risk: 1.1% | Size: 88465.27
+CLOSE [breakeven_stop] | Gross: 252.35 | Costs: 67.32 | Net: 185.04 | Eq: 57705.94 | DD: 7.8%
+OPEN LONG | Price: 0.6953 | SL: 0.6915 | Risk: 1.01% | Size: 120761.02
+CLOSE [breakeven_stop] | Gross: 396.32 | Costs: 92.58 | Net: 303.74 | Eq: 58009.67 | DD: 7.8%
+OPEN LONG | Price: 0.6945 | SL: 0.6872 | Risk: 1.01% | Size: 70405.52
+CLOSE [stop_loss] | Gross: -520.97 | Costs: 53.5 | Net: -574.47 | Eq: 57435.2 | DD: 7.8%
+OPEN LONG | Price: 0.7101 | SL: 0.706 | Risk: 1.01% | Size: 111299.24
+CLOSE [stop_loss] | Gross: -246.32 | Costs: 86.81 | Net: -333.13 | Eq: 57102.07 | DD: 7.8%
+OPEN LONG | Price: 0.7155 | SL: 0.7119 | Risk: 1.01% | Size: 122252.36
+CLOSE [breakeven_stop] | Gross: 112.83 | Costs: 96.29 | Net: 16.54 | Eq: 57118.61 | DD: 7.8%
+OPEN LONG | Price: 0.7205 | SL: 0.7169 | Risk: 1.01% | Size: 122928.6
+CLOSE [breakeven_stop] | Gross: 92.99 | Costs: 97.48 | Net: -4.5 | Eq: 57114.12 | DD: 7.8%
+OPEN LONG | Price: 0.7208 | SL: 0.7164 | Risk: 1.01% | Size: 104159.67
+CLOSE [breakeven_stop] | Gross: 78.82 | Costs: 82.63 | Net: -3.81 | Eq: 57110.3 | DD: 7.8%
+OPEN LONG | Price: 0.7335 | SL: 0.7291 | Risk: 1.01% | Size: 104197.31
+CLOSE [breakeven_stop] | Gross: 98.58 | Costs: 84.13 | Net: 14.45 | Eq: 57124.76 | DD: 7.8%
+OPEN LONG | Price: 0.7229 | SL: 0.719 | Risk: 1.01% | Size: 114262.68
+CLOSE [breakeven_stop] | Gross: 130.33 | Costs: 90.94 | Net: 39.39 | Eq: 57164.15 | DD: 7.8%
+Progress: 38.6% | Trades: 338 | Equity: 57164.15 | Fees: $12564.68 | Funding: $96.4
+OPEN LONG | Price: 0.7115 | SL: 0.708 | Risk: 1.01% | Size: 124806.88
+CLOSE [stop_loss] | Gross: -458.55 | Costs: 97.43 | Net: -555.98 | Eq: 56608.17 | DD: 7.8%
+OPEN LONG | Price: 0.6784 | SL: 0.6747 | Risk: 1.01% | Size: 121800.95
+CLOSE [breakeven_stop] | Gross: 4460.91 | Costs: 93.81 | Net: 4367.1 | Eq: 60975.27 | DD: 7.8%
+OPEN LONG | Price: 0.7106 | SL: 0.7067 | Risk: 1.1% | Size: 133539.35
+CLOSE [stop_loss] | Gross: -104.6 | Costs: 104.33 | Net: -208.93 | Eq: 60766.34 | DD: 7.8%
+OPEN LONG | Price: 0.6658 | SL: 0.6617 | Risk: 1.01% | Size: 119024.99
+CLOSE [breakeven_stop] | Gross: 3312.96 | Costs: 89.0 | Net: 3223.96 | Eq: 63990.3 | DD: 7.8%
+OPEN LONG | Price: 0.6998 | SL: 0.6949 | Risk: 1.01% | Size: 108711.16
+CLOSE [stop_loss] | Gross: -544.79 | Costs: 83.39 | Net: -628.18 | Eq: 63362.11 | DD: 7.8%
+OPEN LONG | Price: 0.6928 | SL: 0.6884 | Risk: 1.01% | Size: 116662.64
+CLOSE [breakeven_stop] | Gross: 2011.71 | Costs: 90.91 | Net: 1920.8 | Eq: 65282.92 | DD: 7.8%
+OPEN LONG | Price: 0.7232 | SL: 0.7181 | Risk: 1.01% | Size: 106819.3
+CLOSE [stop_loss] | Gross: -75.24 | Costs: 84.94 | Net: -160.19 | Eq: 65122.73 | DD: 7.8%
+Progress: 40.0% | Trades: 345 | Equity: 65122.73 | Fees: $13208.49 | Funding: $96.4
+OPEN LONG | Price: 0.7066 | SL: 0.7021 | Risk: 1.01% | Size: 117178.71
+CLOSE [breakeven_stop] | Gross: 405.56 | Costs: 94.07 | Net: 311.49 | Eq: 65434.23 | DD: 7.8%
+OPEN LONG | Price: 0.7411 | SL: 0.737 | Risk: 1.1% | Size: 138230.53
+CLOSE [breakeven_stop] | Gross: 63.03 | Costs: 113.86 | Net: -50.82 | Eq: 65383.4 | DD: 7.8%
+OPEN LONG | Price: 0.7343 | SL: 0.7303 | Risk: 1.1% | Size: 141295.83
+CLOSE [stop_loss] | Gross: -171.33 | Costs: 114.04 | Net: -285.37 | Eq: 65098.04 | DD: 7.8%
+OPEN LONG | Price: 0.7413 | SL: 0.7363 | Risk: 1.01% | Size: 106602.75
+CLOSE [breakeven_stop] | Gross: 1031.98 | Costs: 87.5 | Net: 944.48 | Eq: 66042.52 | DD: 7.8%
+Progress: 41.4% | Trades: 349 | Equity: 66042.52 | Fees: $13617.95 | Funding: $96.4
+OPEN LONG | Price: 0.7548 | SL: 0.7509 | Risk: 1.01% | Size: 133100.07
+CLOSE [breakeven_stop] | Gross: 129.57 | Costs: 110.57 | Net: 18.99 | Eq: 66061.51 | DD: 7.8%
+OPEN LONG | Price: 0.7788 | SL: 0.7742 | Risk: 1.01% | Size: 116843.24
+CLOSE [breakeven_stop] | Gross: 259.48 | Costs: 100.23 | Net: 159.25 | Eq: 66220.76 | DD: 7.8%
+OPEN LONG | Price: 0.786 | SL: 0.7814 | Risk: 1.01% | Size: 116904.19
+CLOSE [stop_loss] | Gross: -546.03 | Costs: 100.77 | Net: -646.8 | Eq: 65573.96 | DD: 7.8%
+OPEN LONG | Price: 0.7715 | SL: 0.767 | Risk: 1.01% | Size: 118425.17
+CLOSE [stop_loss] | Gross: -96.21 | Costs: 100.44 | Net: -196.66 | Eq: 65377.3 | DD: 7.8%
+OPEN LONG | Price: 0.7845 | SL: 0.7795 | Risk: 1.01% | Size: 107989.6
+CLOSE [breakeven_stop] | Gross: 841.26 | Costs: 94.58 | Net: 746.67 | Eq: 66123.98 | DD: 7.8%
+OPEN LONG | Price: 0.7936 | SL: 0.7891 | Risk: 1.01% | Size: 118042.92
+CLOSE [stop_loss] | Gross: -542.64 | Costs: 102.74 | Net: -645.38 | Eq: 65478.6 | DD: 7.8%
+OPEN LONG | Price: 0.8233 | SL: 0.8185 | Risk: 1.01% | Size: 110984.18
+CLOSE [breakeven_stop] | Gross: 806.4 | Costs: 101.96 | Net: 704.44 | Eq: 66183.04 | DD: 7.8%
+Progress: 42.9% | Trades: 356 | Equity: 66183.04 | Fees: $14329.25 | Funding: $96.4
+OPEN LONG | Price: 0.7635 | SL: 0.7585 | Risk: 1.1% | Size: 120510.7
+CLOSE [stop_loss] | Gross: -18.6 | Costs: 101.19 | Net: -119.79 | Eq: 66063.24 | DD: 7.8%
+OPEN LONG | Price: 0.7697 | SL: 0.765 | Risk: 1.1% | Size: 126350.57
+CLOSE [breakeven_stop] | Gross: 376.41 | Costs: 109.33 | Net: 267.08 | Eq: 66330.33 | DD: 7.8%
+OPEN LONG | Price: 0.7639 | SL: 0.7599 | Risk: 1.01% | Size: 130812.39
+CLOSE [stop_loss] | Gross: -536.29 | Costs: 109.62 | Net: -645.91 | Eq: 65684.42 | DD: 7.8%
+OPEN LONG | Price: 0.7868 | SL: 0.7786 | Risk: 1.01% | Size: 71299.67
+CLOSE [breakeven_stop] | Gross: 610.8 | Costs: 63.09 | Net: 547.71 | Eq: 66232.13 | DD: 7.8%
+OPEN LONG | Price: 0.7875 | SL: 0.7802 | Risk: 1.1% | Size: 86579.26
+CLOSE [breakeven_stop] | Gross: 2083.19 | Costs: 77.19 | Net: 2006.0 | Eq: 68238.12 | DD: 7.8%
+OPEN LONG | Price: 0.8138 | SL: 0.8078 | Risk: 1.1% | Size: 104799.16
+CLOSE [stop_loss] | Gross: -210.59 | Costs: 93.69 | Net: -304.29 | Eq: 67933.84 | DD: 7.8%
+OPEN LONG | Price: 0.821 | SL: 0.8168 | Risk: 1.01% | Size: 127329.47
+CLOSE [stop_loss] | Gross: -546.29 | Costs: 114.69 | Net: -660.98 | Eq: 67272.86 | DD: 7.8%
+OPEN LONG | Price: 0.814 | SL: 0.8094 | Risk: 1.01% | Size: 117244.94
+CLOSE [breakeven_stop] | Gross: 134.72 | Costs: 105.05 | Net: 29.67 | Eq: 67302.53 | DD: 7.8%
+OPEN LONG | Price: 0.8191 | SL: 0.8138 | Risk: 1.01% | Size: 105131.05
+CLOSE [breakeven_stop] | Gross: 671.98 | Costs: 96.42 | Net: 575.56 | Eq: 67878.09 | DD: 7.8%
+OPEN LONG | Price: 0.8455 | SL: 0.8396 | Risk: 1.01% | Size: 96794.14
+CLOSE [breakeven_stop] | Gross: 280.24 | Costs: 90.17 | Net: 190.06 | Eq: 68068.15 | DD: 7.8%
+Progress: 44.3% | Trades: 366 | Equity: 68068.15 | Fees: $15289.71 | Funding: $96.4
+OPEN LONG | Price: 0.6928 | SL: 0.6886 | Risk: 1.1% | Size: 141122.3
+CLOSE [breakeven_stop] | Gross: 99.31 | Costs: 109.77 | Net: -10.46 | Eq: 68057.68 | DD: 7.8%
+Progress: 45.7% | Trades: 367 | Equity: 68057.68 | Fees: $15399.48 | Funding: $96.4
+OPEN LONG | Price: 0.6496 | SL: 0.6446 | Risk: 1.01% | Size: 114801.25
+CLOSE [breakeven_stop] | Gross: 198.46 | Costs: 82.15 | Net: 116.32 | Eq: 68174.0 | DD: 7.8%
+OPEN LONG | Price: 0.6514 | SL: 0.6462 | Risk: 1.01% | Size: 111948.17
+CLOSE [breakeven_stop] | Gross: 115.06 | Costs: 80.28 | Net: 34.78 | Eq: 68208.78 | DD: 7.8%
+OPEN LONG | Price: 0.658 | SL: 0.6542 | Risk: 1.1% | Size: 156487.43
+CLOSE [breakeven_stop] | Gross: 252.37 | Costs: 116.84 | Net: 135.53 | Eq: 68344.3 | DD: 7.8%
+OPEN LONG | Price: 0.6639 | SL: 0.6596 | Risk: 1.1% | Size: 141140.17
+CLOSE [breakeven_stop] | Gross: 75.89 | Costs: 103.12 | Net: -27.23 | Eq: 68317.07 | DD: 7.8%
+Progress: 47.1% | Trades: 371 | Equity: 68317.07 | Fees: $15781.87 | Funding: $96.4
+OPEN LONG | Price: 0.6876 | SL: 0.684 | Risk: 1.01% | Size: 149276.76
+CLOSE [breakeven_stop] | Gross: 132.39 | Costs: 112.99 | Net: 19.41 | Eq: 68336.48 | DD: 7.8%
+OPEN LONG | Price: 0.6885 | SL: 0.6851 | Risk: 1.01% | Size: 153536.66
+CLOSE [breakeven_stop] | Gross: 136.35 | Costs: 126.93 | Net: 9.42 | Eq: 68335.33 | DD: 7.8%
+OPEN LONG | Price: 0.6897 | SL: 0.6863 | Risk: 1.01% | Size: 153108.66
+CLOSE [breakeven_stop] | Gross: 1140.39 | Costs: 118.54 | Net: 1021.85 | Eq: 69357.17 | DD: 7.8%
+OPEN LONG | Price: 0.7169 | SL: 0.7133 | Risk: 1.01% | Size: 148760.94
+CLOSE [breakeven_stop] | Gross: 578.16 | Costs: 128.3 | Net: 449.86 | Eq: 69796.37 | DD: 7.8%
+OPEN LONG | Price: 0.7261 | SL: 0.7215 | Risk: 1.01% | Size: 124232.0
+CLOSE [breakeven_stop] | Gross: 2370.16 | Costs: 100.54 | Net: 2269.63 | Eq: 72065.99 | DD: 7.8%
+OPEN LONG | Price: 0.7217 | SL: 0.7181 | Risk: 1.01% | Size: 153986.25
+CLOSE [breakeven_stop] | Gross: 298.07 | Costs: 122.42 | Net: 175.65 | Eq: 72241.64 | DD: 7.8%
+Progress: 48.6% | Trades: 377 | Equity: 72241.64 | Fees: $16470.34 | Funding: $117.63
+OPEN LONG | Price: 0.7452 | SL: 0.7409 | Risk: 1.01% | Size: 133705.62
+CLOSE [stop_loss] | Gross: -296.48 | Costs: 109.45 | Net: -405.93 | Eq: 71835.72 | DD: 7.8%
+OPEN LONG | Price: 0.7482 | SL: 0.7439 | Risk: 1.01% | Size: 132069.25
+CLOSE [breakeven_stop] | Gross: 60.55 | Costs: 109.82 | Net: -49.28 | Eq: 71786.44 | DD: 7.8%
+OPEN LONG | Price: 0.7251 | SL: 0.7206 | Risk: 1.01% | Size: 128291.55
+CLOSE [breakeven_stop] | Gross: 475.32 | Costs: 105.7 | Net: 369.63 | Eq: 72156.07 | DD: 7.8%
+OPEN LONG | Price: 0.7558 | SL: 0.7497 | Risk: 1.01% | Size: 101298.0
+CLOSE [breakeven_stop] | Gross: 546.23 | Costs: 86.29 | Net: 459.93 | Eq: 72616.0 | DD: 7.8%
+OPEN LONG | Price: 0.7611 | SL: 0.7569 | Risk: 1.01% | Size: 139535.37
+CLOSE [breakeven_stop] | Gross: 136.97 | Costs: 116.89 | Net: 20.08 | Eq: 72636.08 | DD: 7.8%
+OPEN LONG | Price: 0.7401 | SL: 0.7353 | Risk: 1.01% | Size: 123924.55
+CLOSE [breakeven_stop] | Gross: 118.3 | Costs: 100.96 | Net: 17.34 | Eq: 72653.42 | DD: 7.8%
+Progress: 50.0% | Trades: 383 | Equity: 72653.42 | Fees: $17099.45 | Funding: $117.63
+OPEN LONG | Price: 0.7248 | SL: 0.7206 | Risk: 1.01% | Size: 139060.99
+CLOSE [breakeven_stop] | Gross: 105.82 | Costs: 110.94 | Net: -5.12 | Eq: 72648.31 | DD: 7.8%
+OPEN LONG | Price: 0.4953 | SL: 0.4783 | Risk: 1.1% | Size: 45221.36
+CLOSE [breakeven_stop] | Gross: 281.64 | Costs: 24.79 | Net: 256.85 | Eq: 72905.16 | DD: 7.8%
+OPEN LONG | Price: 0.4801 | SL: 0.4731 | Risk: 1.01% | Size: 96012.36
+CLOSE [breakeven_stop] | Gross: 1819.39 | Costs: 51.71 | Net: 1767.69 | Eq: 74672.85 | DD: 7.8%
+OPEN LONG | Price: 0.494 | SL: 0.488 | Risk: 1.1% | Size: 122489.37
+CLOSE [breakeven_stop] | Gross: 551.74 | Costs: 68.68 | Net: 483.06 | Eq: 75155.91 | DD: 7.8%
+OPEN LONG | Price: 0.4843 | SL: 0.4791 | Risk: 1.01% | Size: 128646.36
+CLOSE [stop_loss] | Gross: -676.37 | Costs: 68.16 | Net: -744.53 | Eq: 74411.38 | DD: 7.8%
+OPEN LONG | Price: 0.4643 | SL: 0.4613 | Risk: 1.01% | Size: 204313.44
+CLOSE [stop_loss] | Gross: -624.89 | Costs: 104.0 | Net: -728.89 | Eq: 73682.49 | DD: 7.8%
+OPEN LONG | Price: 0.4822 | SL: 0.4752 | Risk: 1.1% | Size: 105814.13
+CLOSE [breakeven_stop] | Gross: 713.82 | Costs: 58.05 | Net: 655.77 | Eq: 74338.26 | DD: 7.8%
+OPEN LONG | Price: 0.4888 | SL: 0.4839 | Risk: 1.1% | Size: 145504.42
+CLOSE [breakeven_stop] | Gross: 301.72 | Costs: 79.18 | Net: 222.54 | Eq: 74560.79 | DD: 7.8%
+OPEN LONG | Price: 0.4827 | SL: 0.479 | Risk: 1.01% | Size: 170695.57
+CLOSE [stop_loss] | Gross: -643.23 | Costs: 90.28 | Net: -733.51 | Eq: 73827.28 | DD: 7.8%
+OPEN LONG | Price: 0.4861 | SL: 0.4819 | Risk: 1.01% | Size: 150918.27
+CLOSE [breakeven_stop] | Gross: 972.05 | Costs: 81.23 | Net: 890.82 | Eq: 74718.1 | DD: 7.8%
+OPEN LONG | Price: 0.4941 | SL: 0.4899 | Risk: 1.01% | Size: 152041.61
+CLOSE [stop_loss] | Gross: -654.63 | Costs: 82.28 | Net: -736.91 | Eq: 73981.19 | DD: 7.8%
+OPEN LONG | Price: 0.4833 | SL: 0.4774 | Risk: 1.01% | Size: 113500.19
+CLOSE [breakeven_stop] | Gross: 2521.49 | Costs: 62.03 | Net: 2459.47 | Eq: 76440.66 | DD: 7.8%
+OPEN LONG | Price: 0.4732 | SL: 0.4676 | Risk: 1.01% | Size: 122530.48
+CLOSE [stop_loss] | Gross: -695.2 | Costs: 63.4 | Net: -758.6 | Eq: 75682.06 | DD: 7.8%
+OPEN LONG | Price: 0.4594 | SL: 0.4524 | Risk: 1.01% | Size: 99794.42
+CLOSE [breakeven_stop] | Gross: 2527.59 | Costs: 52.07 | Net: 2475.52 | Eq: 78157.58 | DD: 7.8%
+OPEN LONG | Price: 0.4737 | SL: 0.4685 | Risk: 1.01% | Size: 132937.42
+CLOSE [breakeven_stop] | Gross: 872.74 | Costs: 69.75 | Net: 802.99 | Eq: 78960.57 | DD: 7.8%
+OPEN LONG | Price: 0.4858 | SL: 0.483 | Risk: 1.1% | Size: 250332.51
+CLOSE [stop_loss] | Gross: -707.45 | Costs: 133.38 | Net: -840.83 | Eq: 78119.74 | DD: 7.8%
+OPEN LONG | Price: 0.4809 | SL: 0.4771 | Risk: 1.01% | Size: 174715.25
+Progress: 51.4% | Trades: 399 | Equity: 78119.74 | Fees: $18299.37 | Funding: $117.63
+CLOSE [stop_loss] | Gross: -677.05 | Costs: 92.05 | Net: -769.09 | Eq: 77350.65 | DD: 7.8%
+OPEN LONG | Price: 0.4619 | SL: 0.457 | Risk: 1.01% | Size: 138986.37
+CLOSE [stop_loss] | Gross: -391.94 | Costs: 70.4 | Net: -462.34 | Eq: 76888.31 | DD: 7.8%
+OPEN LONG | Price: 0.4572 | SL: 0.4545 | Risk: 1.1% | Size: 251504.76
+CLOSE [breakeven_stop] | Gross: 560.95 | Costs: 128.57 | Net: 432.38 | Eq: 77320.69 | DD: 7.8%
+OPEN LONG | Price: 0.4432 | SL: 0.4368 | Risk: 1.01% | Size: 110646.72
+CLOSE [stop_loss] | Gross: -339.25 | Costs: 53.75 | Net: -393.01 | Eq: 76927.68 | DD: 7.8%
+OPEN LONG | Price: 0.4288 | SL: 0.4262 | Risk: 0.97% | Size: 230114.88
+CLOSE [breakeven_stop] | Gross: 155.68 | Costs: 108.62 | Net: 47.05 | Eq: 76974.74 | DD: 7.8%
+OPEN LONG | Price: 0.402 | SL: 0.3976 | Risk: 0.97% | Size: 148194.07
+CLOSE [breakeven_stop] | Gross: 2148.46 | Costs: 67.04 | Net: 2081.42 | Eq: 79056.16 | DD: 7.8%
+OPEN LONG | Price: 0.4241 | SL: 0.4194 | Risk: 1.01% | Size: 149530.2
+CLOSE [stop_loss] | Gross: -714.33 | Costs: 69.36 | Net: -783.7 | Eq: 78272.46 | DD: 7.8%
+OPEN LONG | Price: 0.4187 | SL: 0.4143 | Risk: 1.06% | Size: 164623.88
+CLOSE [breakeven_stop] | Gross: 504.83 | Costs: 76.1 | Net: 428.74 | Eq: 78701.2 | DD: 7.8%
+OPEN LONG | Price: 0.4257 | SL: 0.4228 | Risk: 0.97% | Size: 214429.38
+CLOSE [stop_loss] | Gross: -638.51 | Costs: 100.06 | Net: -738.56 | Eq: 77962.63 | DD: 7.8%
+OPEN LONG | Price: 0.4346 | SL: 0.432 | Risk: 0.97% | Size: 234131.54
+CLOSE [breakeven_stop] | Gross: 934.31 | Costs: 122.61 | Net: 811.69 | Eq: 78764.15 | DD: 7.8%
+OPEN LONG | Price: 0.4524 | SL: 0.4496 | Risk: 1.01% | Size: 227972.61
+CLOSE [breakeven_stop] | Gross: 367.2 | Costs: 113.65 | Net: 253.55 | Eq: 79017.7 | DD: 7.8%
+Progress: 52.9% | Trades: 410 | Equity: 79017.7 | Fees: $19291.41 | Funding: $127.81
+OPEN LONG | Price: 0.4349 | SL: 0.4327 | Risk: 1.01% | Size: 278608.67
+CLOSE [stop_loss] | Gross: -152.47 | Costs: 133.2 | Net: -285.67 | Eq: 78732.03 | DD: 7.8%
+OPEN LONG | Price: 0.4187 | SL: 0.4164 | Risk: 1.1% | Size: 302013.18
+CLOSE [breakeven_stop] | Gross: 229.17 | Costs: 139.22 | Net: 89.95 | Eq: 78821.99 | DD: 7.8%
+OPEN LONG | Price: 0.4191 | SL: 0.4167 | Risk: 1.1% | Size: 285304.68
+CLOSE [breakeven_stop] | Gross: 556.46 | Costs: 134.47 | Net: 421.99 | Eq: 79243.97 | DD: 7.8%
+OPEN LONG | Price: 0.4198 | SL: 0.4176 | Risk: 1.1% | Size: 306080.4
+CLOSE [breakeven_stop] | Gross: 245.37 | Costs: 141.47 | Net: 103.9 | Eq: 79347.87 | DD: 7.8%
+OPEN LONG | Price: 0.4327 | SL: 0.4298 | Risk: 1.01% | Size: 226715.44
+CLOSE [breakeven_stop] | Gross: 414.05 | Costs: 109.21 | Net: 304.84 | Eq: 79652.71 | DD: 7.8%
+OPEN LONG | Price: 0.4346 | SL: 0.432 | Risk: 1.1% | Size: 268354.6
+CLOSE [breakeven_stop] | Gross: 185.2 | Costs: 130.97 | Net: 54.24 | Eq: 79706.95 | DD: 7.8%
+Progress: 54.3% | Trades: 416 | Equity: 79706.95 | Fees: $20079.94 | Funding: $127.81
+OPEN LONG | Price: 0.4588 | SL: 0.4565 | Risk: 1.01% | Size: 266752.8
+CLOSE [breakeven_stop] | Gross: 655.2 | Costs: 134.98 | Net: 520.22 | Eq: 80227.16 | DD: 7.8%
+OPEN LONG | Price: 0.4709 | SL: 0.4685 | Risk: 1.01% | Size: 260469.82
+CLOSE [breakeven_stop] | Gross: 193.52 | Costs: 135.03 | Net: 58.49 | Eq: 80285.65 | DD: 7.8%
+OPEN LONG | Price: 0.4488 | SL: 0.4457 | Risk: 1.1% | Size: 236475.44
+CLOSE [breakeven_stop] | Gross: 704.14 | Costs: 118.3 | Net: 585.84 | Eq: 80871.5 | DD: 7.8%
+OPEN LONG | Price: 0.4376 | SL: 0.4349 | Risk: 1.01% | Size: 243063.95
+CLOSE [stop_loss] | Gross: -274.57 | Costs: 116.85 | Net: -391.42 | Eq: 80480.08 | DD: 7.8%
+OPEN LONG | Price: 0.3911 | SL: 0.3888 | Risk: 1.01% | Size: 281801.12
+Progress: 55.7% | Trades: 420 | Equity: 80469.06 | Fees: $20585.09 | Funding: $138.83
+CLOSE [breakeven_stop] | Gross: 4128.29 | Costs: 134.52 | Net: 3993.77 | Eq: 84462.83 | DD: 7.8%
+OPEN LONG | Price: 0.3935 | SL: 0.3899 | Risk: 1.1% | Size: 224255.12
+CLOSE [breakeven_stop] | Gross: 1647.93 | Costs: 99.63 | Net: 1548.3 | Eq: 86011.13 | DD: 7.8%
+OPEN LONG | Price: 0.3964 | SL: 0.3942 | Risk: 1.01% | Size: 313073.37
+CLOSE [breakeven_stop] | Gross: 980.17 | Costs: 149.45 | Net: 830.72 | Eq: 86829.44 | DD: 7.8%
+OPEN LONG | Price: 0.4039 | SL: 0.4016 | Risk: 1.01% | Size: 299818.33
+CLOSE [breakeven_stop] | Gross: 611.03 | Costs: 133.54 | Net: 477.49 | Eq: 87306.93 | DD: 7.8%
+OPEN LONG | Price: 0.4129 | SL: 0.4102 | Risk: 1.01% | Size: 267912.11
+CLOSE [breakeven_stop] | Gross: 142.67 | Costs: 121.76 | Net: 20.91 | Eq: 87327.84 | DD: 7.8%
+OPEN LONG | Price: 0.4222 | SL: 0.42 | Risk: 1.01% | Size: 311136.35
+CLOSE [breakeven_stop] | Gross: 483.78 | Costs: 144.76 | Net: 339.02 | Eq: 87666.86 | DD: 7.8%
+OPEN LONG | Price: 0.3657 | SL: 0.3619 | Risk: 1.1% | Size: 225157.59
+CLOSE [breakeven_stop] | Gross: 50.2 | Costs: 91.5 | Net: -41.3 | Eq: 87625.55 | DD: 7.8%
+OPEN LONG | Price: 0.3573 | SL: 0.3545 | Risk: 1.1% | Size: 295045.94
+CLOSE [stop_loss] | Gross: -824.96 | Costs: 115.5 | Net: -940.46 | Eq: 86685.09 | DD: 7.8%
+OPEN LONG | Price: 0.3471 | SL: 0.3441 | Risk: 1.01% | Size: 254600.68
+CLOSE [breakeven_stop] | Gross: 653.85 | Costs: 97.56 | Net: 556.29 | Eq: 87241.39 | DD: 7.8%
+OPEN LONG | Price: 0.3515 | SL: 0.3479 | Risk: 1.01% | Size: 216731.01
+CLOSE [breakeven_stop] | Gross: 98.25 | Costs: 83.85 | Net: 14.4 | Eq: 87255.79 | DD: 7.8%
+OPEN LONG | Price: 0.3483 | SL: 0.3456 | Risk: 1.01% | Size: 277721.48
+CLOSE [breakeven_stop] | Gross: 2771.18 | Costs: 108.98 | Net: 2662.2 | Eq: 89917.98 | DD: 7.8%
+OPEN LONG | Price: 0.3631 | SL: 0.3604 | Risk: 1.01% | Size: 282320.54
+CLOSE [stop_loss] | Gross: -771.48 | Costs: 112.33 | Net: -883.81 | Eq: 89034.18 | DD: 7.8%
+OPEN LONG | Price: 0.3457 | SL: 0.3398 | Risk: 1.01% | Size: 141719.99
+CLOSE [breakeven_stop] | Gross: 957.74 | Costs: 59.31 | Net: 898.43 | Eq: 89927.71 | DD: 7.8%
+Progress: 57.1% | Trades: 433 | Equity: 89927.71 | Fees: $22009.45 | Funding: $156.14
+OPEN LONG | Price: 0.3562 | SL: 0.354 | Risk: 1.01% | Size: 337244.43
+CLOSE [breakeven_stop] | Gross: 770.24 | Costs: 132.55 | Net: 637.69 | Eq: 90565.4 | DD: 7.8%
+OPEN LONG | Price: 0.3657 | SL: 0.3631 | Risk: 1.01% | Size: 292757.46
+CLOSE [breakeven_stop] | Gross: 2021.23 | Costs: 118.87 | Net: 1902.36 | Eq: 92467.77 | DD: 7.8%
+OPEN LONG | Price: 0.3554 | SL: 0.3516 | Risk: 1.01% | Size: 216855.28
+CLOSE [breakeven_stop] | Gross: 1456.1 | Costs: 85.57 | Net: 1370.53 | Eq: 93838.3 | DD: 7.8%
+OPEN LONG | Price: 0.3657 | SL: 0.363 | Risk: 1.01% | Size: 292332.07
+CLOSE [breakeven_stop] | Gross: 384.14 | Costs: 117.8 | Net: 266.34 | Eq: 94104.63 | DD: 7.8%
+OPEN LONG | Price: 0.3674 | SL: 0.3636 | Risk: 1.01% | Size: 222528.24
+CLOSE [breakeven_stop] | Gross: 506.68 | Costs: 90.2 | Net: 416.48 | Eq: 94521.11 | DD: 7.8%
+OPEN LONG | Price: 0.3655 | SL: 0.3615 | Risk: 1.01% | Size: 212990.3
+CLOSE [breakeven_stop] | Gross: 2360.93 | Costs: 87.35 | Net: 2273.58 | Eq: 96794.69 | DD: 7.8%
+OPEN LONG | Price: 0.3745 | SL: 0.3719 | Risk: 1.1% | Size: 336465.38
+CLOSE [breakeven_stop] | Gross: 563.94 | Costs: 139.88 | Net: 424.07 | Eq: 97218.76 | DD: 7.8%
+OPEN LONG | Price: 0.3786 | SL: 0.3757 | Risk: 1.01% | Size: 282542.12
+CLOSE [breakeven_stop] | Gross: 1834.68 | Costs: 118.67 | Net: 1716.01 | Eq: 98934.76 | DD: 7.8%
+OPEN LONG | Price: 0.3843 | SL: 0.3815 | Risk: 1.01% | Size: 301638.34
+CLOSE [breakeven_stop] | Gross: 28.05 | Costs: 127.52 | Net: -99.47 | Eq: 98835.3 | DD: 7.8%
+OPEN LONG | Price: 0.38 | SL: 0.3762 | Risk: 1.01% | Size: 230959.94
+CLOSE [breakeven_stop] | Gross: 1056.95 | Costs: 97.12 | Net: 959.83 | Eq: 99795.13 | DD: 7.8%
+OPEN LONG | Price: 0.3992 | SL: 0.3932 | Risk: 1.01% | Size: 154048.22
+CLOSE [breakeven_stop] | Gross: 4864.05 | Costs: 70.32 | Net: 4793.73 | Eq: 104588.86 | DD: 7.8%
+OPEN LONG | Price: 0.43 | SL: 0.4261 | Risk: 1.01% | Size: 235097.87
+CLOSE [stop_loss] | Gross: -921.83 | Costs: 110.69 | Net: -1032.52 | Eq: 103556.33 | DD: 7.8%
+OPEN LONG | Price: 0.4254 | SL: 0.422 | Risk: 1.01% | Size: 261842.82
+CLOSE [stop_loss] | Gross: -897.49 | Costs: 122.03 | Net: -1019.52 | Eq: 102536.82 | DD: 7.8%
+OPEN LONG | Price: 0.4309 | SL: 0.4274 | Risk: 1.01% | Size: 253981.98
+CLOSE [stop_loss] | Gross: -889.8 | Costs: 119.89 | Net: -1009.69 | Eq: 101527.12 | DD: 7.8%
+OPEN LONG | Price: 0.4049 | SL: 0.4025 | Risk: 1.01% | Size: 347847.48
+CLOSE [breakeven_stop] | Gross: 288.58 | Costs: 155.08 | Net: 133.5 | Eq: 101660.62 | DD: 7.8%
+OPEN LONG | Price: 0.4134 | SL: 0.411 | Risk: 1.01% | Size: 337068.28
+CLOSE [stop_loss] | Gross: -840.58 | Costs: 152.81 | Net: -993.39 | Eq: 100667.23 | DD: 7.8%
+OPEN LONG | Price: 0.4047 | SL: 0.4019 | Risk: 1.01% | Size: 303146.64
+CLOSE [breakeven_stop] | Gross: 3210.28 | Costs: 136.71 | Net: 3073.57 | Eq: 103740.8 | DD: 7.8%
+OPEN LONG | Price: 0.4318 | SL: 0.4283 | Risk: 1.01% | Size: 254213.57
+CLOSE [breakeven_stop] | Gross: 141.57 | Costs: 120.82 | Net: 20.75 | Eq: 103761.55 | DD: 7.8%
+OPEN LONG | Price: 0.4339 | SL: 0.4311 | Risk: 1.01% | Size: 307476.23
+CLOSE [stop_loss] | Gross: -151.66 | Costs: 146.67 | Net: -298.33 | Eq: 103463.23 | DD: 7.8%
+OPEN LONG | Price: 0.4347 | SL: 0.4321 | Risk: 1.01% | Size: 323745.14
+CLOSE [breakeven_stop] | Gross: 598.82 | Costs: 155.13 | Net: 443.69 | Eq: 103906.92 | DD: 7.8%
+Progress: 58.6% | Trades: 453 | Equity: 103906.92 | Fees: $24415.13 | Funding: $156.14
+OPEN LONG | Price: 0.4308 | SL: 0.4263 | Risk: 1.01% | Size: 206049.7
+CLOSE [breakeven_stop] | Gross: 118.18 | Costs: 97.7 | Net: 20.48 | Eq: 103927.4 | DD: 7.8%
+OPEN LONG | Price: 0.4421 | SL: 0.4378 | Risk: 1.1% | Size: 233359.27
+CLOSE [breakeven_stop] | Gross: 866.25 | Costs: 115.09 | Net: 751.16 | Eq: 104678.56 | DD: 7.8%
+OPEN LONG | Price: 0.4467 | SL: 0.4417 | Risk: 1.01% | Size: 188494.77
+CLOSE [breakeven_stop] | Gross: 114.3 | Costs: 92.68 | Net: 21.61 | Eq: 104700.17 | DD: 7.8%
+OPEN LONG | Price: 0.4293 | SL: 0.4266 | Risk: 1.1% | Size: 345668.22
+CLOSE [trailing_stop] | Gross: 91.69 | Costs: 163.28 | Net: -71.59 | Eq: 104628.58 | DD: 7.8%
+OPEN LONG | Price: 0.4264 | SL: 0.4237 | Risk: 1.1% | Size: 342584.57
+CLOSE [breakeven_stop] | Gross: 188.4 | Costs: 160.78 | Net: 27.62 | Eq: 104656.2 | DD: 7.8%
+OPEN LONG | Price: 0.4277 | SL: 0.4254 | Risk: 1.01% | Size: 367646.34
+CLOSE [stop_loss] | Gross: -846.73 | Costs: 172.5 | Net: -1019.22 | Eq: 103636.98 | DD: 7.8%
+OPEN LONG | Price: 0.4041 | SL: 0.4007 | Risk: 1.01% | Size: 264870.61
+CLOSE [breakeven_stop] | Gross: 136.73 | Costs: 118.98 | Net: 17.74 | Eq: 103654.72 | DD: 7.8%
+OPEN LONG | Price: 0.416 | SL: 0.4138 | Risk: 1.1% | Size: 401167.25
+CLOSE [breakeven_stop] | Gross: 152.32 | Costs: 185.49 | Net: -33.17 | Eq: 103621.55 | DD: 7.8%
+OPEN LONG | Price: 0.415 | SL: 0.4128 | Risk: 1.01% | Size: 369199.88
+CLOSE [breakeven_stop] | Gross: 683.62 | Costs: 168.91 | Net: 514.71 | Eq: 104136.26 | DD: 7.8%
+OPEN LONG | Price: 0.388 | SL: 0.3847 | Risk: 1.01% | Size: 270728.34
+CLOSE [breakeven_stop] | Gross: 824.42 | Costs: 115.99 | Net: 708.42 | Eq: 104844.69 | DD: 7.8%
+OPEN LONG | Price: 0.3853 | SL: 0.3797 | Risk: 1.01% | Size: 172243.21
+CLOSE [breakeven_stop] | Gross: 764.67 | Costs: 73.42 | Net: 691.25 | Eq: 105535.94 | DD: 7.8%
+OPEN LONG | Price: 0.3949 | SL: 0.3927 | Risk: 0.97% | Size: 370596.52
+CLOSE [stop_loss] | Gross: -823.91 | Costs: 160.52 | Net: -984.43 | Eq: 104551.51 | DD: 7.8%
+OPEN LONG | Price: 0.3995 | SL: 0.3971 | Risk: 1.06% | Size: 368117.05
+CLOSE [stop_loss] | Gross: -905.41 | Costs: 161.26 | Net: -1066.67 | Eq: 103484.84 | DD: 7.8%
+Progress: 60.0% | Trades: 466 | Equity: 103484.84 | Fees: $26201.74 | Funding: $156.14
+OPEN LONG | Price: 0.3932 | SL: 0.3906 | Risk: 0.97% | Size: 312645.6
+CLOSE [breakeven_stop] | Gross: 457.63 | Costs: 137.78 | Net: 319.85 | Eq: 103804.7 | DD: 7.8%
+OPEN LONG | Price: 0.3856 | SL: 0.3833 | Risk: 1.01% | Size: 374252.61
+CLOSE [stop_loss] | Gross: -855.57 | Costs: 158.26 | Net: -1013.83 | Eq: 102790.86 | DD: 7.8%
+OPEN LONG | Price: 0.3739 | SL: 0.3699 | Risk: 0.97% | Size: 220934.42
+CLOSE [breakeven_stop] | Gross: 669.62 | Costs: 93.06 | Net: 576.56 | Eq: 103367.43 | DD: 7.8%
+OPEN LONG | Price: 0.3798 | SL: 0.3762 | Risk: 1.01% | Size: 250878.34
+CLOSE [breakeven_stop] | Gross: 1758.94 | Costs: 106.3 | Net: 1652.64 | Eq: 105020.07 | DD: 7.8%
+OPEN LONG | Price: 0.3853 | SL: 0.3825 | Risk: 0.97% | Size: 299370.53
+CLOSE [breakeven_stop] | Gross: 734.49 | Costs: 128.55 | Net: 605.93 | Eq: 105626.0 | DD: 7.8%
+OPEN LONG | Price: 0.3568 | SL: 0.3532 | Risk: 1.01% | Size: 260524.36
+CLOSE [breakeven_stop] | Gross: 1335.77 | Costs: 112.27 | Net: 1223.5 | Eq: 106840.2 | DD: 7.8%
+OPEN LONG | Price: 0.3639 | SL: 0.3616 | Risk: 1.01% | Size: 378037.41
+CLOSE [breakeven_stop] | Gross: 172.17 | Costs: 151.41 | Net: 20.77 | Eq: 106860.97 | DD: 7.8%
+OPEN LONG | Price: 0.361 | SL: 0.3573 | Risk: 1.01% | Size: 255828.92
+CLOSE [breakeven_stop] | Gross: 2246.98 | Costs: 102.82 | Net: 2144.16 | Eq: 109005.13 | DD: 7.8%
+OPEN LONG | Price: 0.3701 | SL: 0.3654 | Risk: 1.01% | Size: 209346.91
+CLOSE [breakeven_stop] | Gross: 1537.82 | Costs: 86.07 | Net: 1451.75 | Eq: 110456.89 | DD: 7.8%
+OPEN LONG | Price: 0.3748 | SL: 0.3724 | Risk: 1.1% | Size: 413168.03
+CLOSE [stop_loss] | Gross: -46.32 | Costs: 170.3 | Net: -216.63 | Eq: 110240.26 | DD: 7.8%
+OPEN LONG | Price: 0.3798 | SL: 0.375 | Risk: 1.01% | Size: 209016.77
+CLOSE [breakeven_stop] | Gross: 889.59 | Costs: 87.81 | Net: 801.79 | Eq: 111042.05 | DD: 7.8%
+OPEN LONG | Price: 0.382 | SL: 0.3791 | Risk: 1.1% | Size: 352622.32
+CLOSE [breakeven_stop] | Gross: 410.14 | Costs: 149.43 | Net: 260.72 | Eq: 111302.76 | DD: 7.8%
+OPEN LONG | Price: 0.3811 | SL: 0.3787 | Risk: 1.01% | Size: 384594.52
+CLOSE [stop_loss] | Gross: -928.39 | Costs: 160.71 | Net: -1089.1 | Eq: 110213.67 | DD: 7.8%
+OPEN LONG | Price: 0.3777 | SL: 0.3757 | Risk: 1.1% | Size: 475413.35
+CLOSE [breakeven_stop] | Gross: 567.01 | Costs: 199.2 | Net: 367.81 | Eq: 110581.48 | DD: 7.8%
+OPEN LONG | Price: 0.3769 | SL: 0.3749 | Risk: 1.01% | Size: 448731.52
+CLOSE [breakeven_stop] | Gross: 218.12 | Costs: 186.15 | Net: 31.98 | Eq: 110613.45 | DD: 7.8%
+OPEN LONG | Price: 0.3715 | SL: 0.3694 | Risk: 1.01% | Size: 426430.06
+CLOSE [breakeven_stop] | Gross: 1866.35 | Costs: 178.78 | Net: 1687.57 | Eq: 112301.02 | DD: 7.8%
+OPEN LONG | Price: 0.3745 | SL: 0.3725 | Risk: 1.01% | Size: 446757.49
+CLOSE [breakeven_stop] | Gross: 215.78 | Costs: 184.15 | Net: 31.63 | Eq: 112332.66 | DD: 7.8%
+OPEN LONG | Price: 0.3806 | SL: 0.3787 | Risk: 1.01% | Size: 456783.36
+CLOSE [breakeven_stop] | Gross: 672.94 | Costs: 211.67 | Net: 461.28 | Eq: 112776.55 | DD: 7.8%
+Progress: 61.4% | Trades: 484 | Equity: 112776.55 | Fees: $28779.75 | Funding: $182.81
+OPEN LONG | Price: 0.3612 | SL: 0.3582 | Risk: 1.1% | Size: 352601.98
+CLOSE [breakeven_stop] | Gross: 1105.0 | Costs: 140.69 | Net: 964.31 | Eq: 113740.86 | DD: 7.8%
+OPEN LONG | Price: 0.2971 | SL: 0.294 | Risk: 1.01% | Size: 328952.46
+CLOSE [breakeven_stop] | Gross: 1061.66 | Costs: 108.07 | Net: 953.59 | Eq: 114694.44 | DD: 7.8%
+OPEN LONG | Price: 0.2988 | SL: 0.296 | Risk: 1.1% | Size: 388975.97
+CLOSE [stop_loss] | Gross: -394.82 | Costs: 127.61 | Net: -522.43 | Eq: 114172.01 | DD: 7.8%
+OPEN LONG | Price: 0.3075 | SL: 0.3059 | Risk: 1.01% | Size: 576543.07
+CLOSE [stop_loss] | Gross: -915.98 | Costs: 194.49 | Net: -1110.47 | Eq: 113061.55 | DD: 7.8%
+OPEN LONG | Price: 0.3033 | SL: 0.3017 | Risk: 1.01% | Size: 557778.95
+CLOSE [breakeven_stop] | Gross: 823.96 | Costs: 186.52 | Net: 637.44 | Eq: 113698.98 | DD: 7.8%
+OPEN LONG | Price: 0.3139 | SL: 0.3115 | Risk: 1.01% | Size: 400806.77
+CLOSE [breakeven_stop] | Gross: 3132.21 | Costs: 140.1 | Net: 2992.11 | Eq: 116691.09 | DD: 7.8%
+OPEN LONG | Price: 0.3205 | SL: 0.3183 | Risk: 1.01% | Size: 439354.4
+CLOSE [breakeven_stop] | Gross: 180.18 | Costs: 156.52 | Net: 23.66 | Eq: 116714.75 | DD: 7.8%
+Progress: 62.9% | Trades: 491 | Equity: 116714.75 | Fees: $29833.77 | Funding: $182.81
+OPEN LONG | Price: 0.3242 | SL: 0.3214 | Risk: 1.01% | Size: 367001.29
+CLOSE [breakeven_stop] | Gross: 153.44 | Costs: 130.95 | Net: 22.49 | Eq: 116737.25 | DD: 7.8%
+OPEN LONG | Price: 0.3257 | SL: 0.3239 | Risk: 1.01% | Size: 523579.42
+CLOSE [breakeven_stop] | Gross: 918.76 | Costs: 188.07 | Net: 730.69 | Eq: 117467.94 | DD: 7.8%
+OPEN LONG | Price: 0.3261 | SL: 0.3241 | Risk: 1.01% | Size: 489533.68
+CLOSE [breakeven_stop] | Gross: 347.6 | Costs: 175.77 | Net: 171.83 | Eq: 117639.76 | DD: 7.8%
+OPEN LONG | Price: 0.3303 | SL: 0.3285 | Risk: 1.01% | Size: 536171.36
+CLOSE [breakeven_stop] | Gross: 228.39 | Costs: 194.91 | Net: 33.48 | Eq: 117673.24 | DD: 7.8%
+OPEN LONG | Price: 0.3402 | SL: 0.3383 | Risk: 1.01% | Size: 508391.32
+CLOSE [stop_loss] | Gross: -577.65 | Costs: 189.91 | Net: -767.57 | Eq: 116905.67 | DD: 7.8%
+OPEN LONG | Price: 0.3362 | SL: 0.3342 | Risk: 1.01% | Size: 477883.13
+CLOSE [stop_loss] | Gross: -966.07 | Costs: 176.18 | Net: -1142.25 | Eq: 115763.42 | DD: 7.8%
+Progress: 64.3% | Trades: 497 | Equity: 115763.42 | Fees: $30889.57 | Funding: $182.81
+OPEN LONG | Price: 0.2804 | SL: 0.2786 | Risk: 1.01% | Size: 548770.37
+CLOSE [breakeven_stop] | Gross: 3050.56 | Costs: 170.91 | Net: 2879.65 | Eq: 118643.07 | DD: 7.8%
+OPEN LONG | Price: 0.2868 | SL: 0.2849 | Risk: 1.1% | Size: 581737.48
+CLOSE [breakeven_stop] | Gross: 450.78 | Costs: 189.31 | Net: 261.48 | Eq: 118904.55 | DD: 7.8%
+OPEN LONG | Price: 0.2854 | SL: 0.2838 | Risk: 1.01% | Size: 617253.74
+CLOSE [breakeven_stop] | Gross: 227.18 | Costs: 193.88 | Net: 33.3 | Eq: 118937.85 | DD: 7.8%
+OPEN LONG | Price: 0.2944 | SL: 0.2928 | Risk: 1.01% | Size: 609850.82
+CLOSE [breakeven_stop] | Gross: 15000.2 | Costs: 206.7 | Net: 14793.5 | Eq: 133731.35 | DD: 7.8%
+OPEN LONG | Price: 0.3215 | SL: 0.3197 | Risk: 1.01% | Size: 593008.23
+CLOSE [stop_loss] | Gross: -1095.85 | Costs: 209.09 | Net: -1304.94 | Eq: 132426.41 | DD: 7.8%
+OPEN LONG | Price: 0.3211 | SL: 0.3191 | Risk: 1.01% | Size: 539261.49
+CLOSE [breakeven_stop] | Gross: 2034.36 | Costs: 193.47 | Net: 1840.89 | Eq: 134267.3 | DD: 7.8%
+OPEN LONG | Price: 0.3268 | SL: 0.3247 | Risk: 1.01% | Size: 524597.45
+CLOSE [breakeven_stop] | Gross: 533.85 | Costs: 188.86 | Net: 344.99 | Eq: 134612.29 | DD: 7.8%
+Progress: 65.7% | Trades: 504 | Equity: 134612.29 | Fees: $32241.79 | Funding: $182.81
+OPEN LONG | Price: 0.317 | SL: 0.3153 | Risk: 1.01% | Size: 634539.6
+CLOSE [stop_loss] | Gross: -1090.6 | Costs: 220.64 | Net: -1311.24 | Eq: 133301.05 | DD: 7.8%
+OPEN LONG | Price: 0.3028 | SL: 0.2999 | Risk: 1.01% | Size: 412288.35
+CLOSE [breakeven_stop] | Gross: 4245.99 | Costs: 141.02 | Net: 4104.98 | Eq: 137406.03 | DD: 7.8%
+OPEN LONG | Price: 0.3142 | SL: 0.311 | Risk: 1.01% | Size: 385137.09
+CLOSE [stop_loss] | Gross: -1227.02 | Costs: 132.42 | Net: -1359.44 | Eq: 136046.58 | DD: 7.8%
+OPEN LONG | Price: 0.309 | SL: 0.3064 | Risk: 1.01% | Size: 455264.54
+CLOSE [breakeven_stop] | Gross: 2059.9 | Costs: 155.86 | Net: 1904.04 | Eq: 137950.62 | DD: 7.8%
+OPEN LONG | Price: 0.3149 | SL: 0.313 | Risk: 1.01% | Size: 597480.17
+CLOSE [breakeven_stop] | Gross: 242.64 | Costs: 207.07 | Net: 35.57 | Eq: 137986.19 | DD: 7.8%
+OPEN LONG | Price: 0.3143 | SL: 0.3123 | Risk: 1.01% | Size: 584459.33
+CLOSE [breakeven_stop] | Gross: 379.5 | Costs: 204.27 | Net: 175.23 | Eq: 138161.42 | DD: 7.8%
+OPEN LONG | Price: 0.3449 | SL: 0.341 | Risk: 1.01% | Size: 317296.1
+CLOSE [breakeven_stop] | Gross: 385.42 | Costs: 123.0 | Net: 262.42 | Eq: 138423.84 | DD: 7.8%
+OPEN LONG | Price: 0.3445 | SL: 0.3425 | Risk: 1.1% | Size: 616851.65
+CLOSE [stop_loss] | Gross: -422.16 | Costs: 233.5 | Net: -655.67 | Eq: 137768.17 | DD: 7.8%
+Progress: 67.1% | Trades: 512 | Equity: 137768.17 | Fees: $33659.57 | Funding: $182.81
+OPEN LONG | Price: 0.3098 | SL: 0.3077 | Risk: 1.01% | Size: 543628.85
+CLOSE [breakeven_stop] | Gross: 4117.54 | Costs: 204.34 | Net: 3913.2 | Eq: 141664.53 | DD: 7.8%
+OPEN LONG | Price: 0.3135 | SL: 0.3112 | Risk: 1.01% | Size: 518862.99
+CLOSE [breakeven_stop] | Gross: 304.59 | Costs: 179.08 | Net: 125.51 | Eq: 141790.04 | DD: 7.8%
+OPEN LONG | Price: 0.299 | SL: 0.2969 | Risk: 1.1% | Size: 627432.73
+CLOSE [breakeven_stop] | Gross: 1565.31 | Costs: 210.72 | Net: 1354.59 | Eq: 143144.62 | DD: 7.8%
+OPEN LONG | Price: 0.3018 | SL: 0.3 | Risk: 1.01% | Size: 652386.91
+CLOSE [breakeven_stop] | Gross: 4583.52 | Costs: 219.07 | Net: 4364.44 | Eq: 147509.07 | DD: 7.8%
+OPEN LONG | Price: 0.3072 | SL: 0.3053 | Risk: 1.01% | Size: 639108.13
+CLOSE [breakeven_stop] | Gross: 1124.7 | Costs: 223.1 | Net: 901.6 | Eq: 148410.67 | DD: 7.8%
+OPEN LONG | Price: 0.313 | SL: 0.3113 | Risk: 1.01% | Size: 705072.51
+CLOSE [stop_loss] | Gross: -1203.85 | Costs: 242.07 | Net: -1445.91 | Eq: 146964.76 | DD: 7.8%
+OPEN LONG | Price: 0.2883 | SL: 0.2868 | Risk: 1.01% | Size: 773952.68
+CLOSE [breakeven_stop] | Gross: 275.13 | Costs: 245.56 | Net: 29.57 | Eq: 146994.33 | DD: 7.8%
+OPEN LONG | Price: 0.2915 | SL: 0.2896 | Risk: 1.01% | Size: 652435.76
+CLOSE [breakeven_stop] | Gross: 1773.61 | Costs: 210.15 | Net: 1563.46 | Eq: 148557.79 | DD: 7.8%
+OPEN LONG | Price: 0.2951 | SL: 0.2916 | Risk: 1.01% | Size: 389438.16
+CLOSE [stop_loss] | Gross: -595.47 | Costs: 126.07 | Net: -721.54 | Eq: 147836.26 | DD: 7.8%
+Progress: 68.6% | Trades: 521 | Equity: 147836.26 | Fees: $35502.88 | Funding: $199.65
+OPEN LONG | Price: 0.2635 | SL: 0.2617 | Risk: 1.01% | Size: 698588.72
+CLOSE [stop_loss] | Gross: -1247.46 | Costs: 201.76 | Net: -1449.22 | Eq: 146387.03 | DD: 7.8%
+OPEN LONG | Price: 0.257 | SL: 0.2553 | Risk: 1.01% | Size: 743480.44
+CLOSE [breakeven_stop] | Gross: 5806.54 | Costs: 214.39 | Net: 5592.16 | Eq: 151979.19 | DD: 7.8%
+OPEN LONG | Price: 0.2739 | SL: 0.2711 | Risk: 1.01% | Size: 492721.82
+CLOSE [breakeven_stop] | Gross: 141.66 | Costs: 148.51 | Net: -6.85 | Eq: 151972.34 | DD: 7.8%
+OPEN LONG | Price: 0.2764 | SL: 0.2739 | Risk: 1.01% | Size: 544363.02
+CLOSE [breakeven_stop] | Gross: 1026.68 | Costs: 168.87 | Net: 857.81 | Eq: 152830.15 | DD: 7.8%
+Progress: 70.0% | Trades: 525 | Equity: 152830.15 | Fees: $36236.41 | Funding: $199.65
+OPEN LONG | Price: 0.2674 | SL: 0.2654 | Risk: 1.01% | Size: 654872.33
+CLOSE [breakeven_stop] | Gross: 699.83 | Costs: 196.85 | Net: 502.98 | Eq: 153333.13 | DD: 7.8%
+OPEN LONG | Price: 0.266 | SL: 0.2639 | Risk: 1.01% | Size: 637354.48
+CLOSE [stop_loss] | Gross: -1322.7 | Costs: 185.73 | Net: -1508.43 | Eq: 151824.7 | DD: 7.8%
+OPEN LONG | Price: 0.2539 | SL: 0.2521 | Risk: 1.01% | Size: 704550.06
+CLOSE [breakeven_stop] | Gross: 6967.27 | Costs: 200.57 | Net: 6766.7 | Eq: 158591.4 | DD: 7.8%
+OPEN LONG | Price: 0.2661 | SL: 0.2644 | Risk: 1.01% | Size: 795733.82
+CLOSE [stop_loss] | Gross: -1318.95 | Costs: 232.15 | Net: -1551.1 | Eq: 157040.3 | DD: 7.8%
+OPEN LONG | Price: 0.2692 | SL: 0.2677 | Risk: 1.01% | Size: 874165.81
+CLOSE [stop_loss] | Gross: -1271.43 | Costs: 281.64 | Net: -1553.07 | Eq: 155463.7 | DD: 7.8%
+Progress: 71.4% | Trades: 530 | Equity: 155463.7 | Fees: $37309.82 | Funding: $223.18
+OPEN LONG | Price: 0.2817 | SL: 0.2802 | Risk: 1.01% | Size: 832279.53
+CLOSE [breakeven_stop] | Gross: 934.98 | Costs: 258.37 | Net: 676.61 | Eq: 156140.31 | DD: 7.8%
+OPEN LONG | Price: 0.2735 | SL: 0.272 | Risk: 1.01% | Size: 846205.15
+CLOSE [breakeven_stop] | Gross: 657.41 | Costs: 254.9 | Net: 402.51 | Eq: 156542.82 | DD: 7.8%
+Progress: 72.9% | Trades: 532 | Equity: 156542.82 | Fees: $37823.09 | Funding: $223.18
+OPEN LONG | Price: 0.283 | SL: 0.2814 | Risk: 1.01% | Size: 788107.36
+CLOSE [breakeven_stop] | Gross: 3749.1 | Costs: 248.59 | Net: 3500.51 | Eq: 160043.33 | DD: 7.8%
+OPEN LONG | Price: 0.2986 | SL: 0.297 | Risk: 1.01% | Size: 788152.02
+CLOSE [breakeven_stop] | Gross: 247.03 | Costs: 258.98 | Net: -11.94 | Eq: 160031.39 | DD: 7.8%
+OPEN LONG | Price: 0.3007 | SL: 0.298 | Risk: 1.01% | Size: 513971.03
+CLOSE [breakeven_stop] | Gross: 199.31 | Costs: 170.09 | Net: 29.22 | Eq: 160060.61 | DD: 7.8%
+OPEN LONG | Price: 0.3041 | SL: 0.3023 | Risk: 1.01% | Size: 739031.52
+CLOSE [breakeven_stop] | Gross: 527.21 | Costs: 249.2 | Net: 278.01 | Eq: 160338.62 | DD: 7.8%
+OPEN LONG | Price: 0.3089 | SL: 0.3073 | Risk: 1.01% | Size: 800278.23
+CLOSE [breakeven_stop] | Gross: 318.8 | Costs: 272.07 | Net: 46.73 | Eq: 160385.35 | DD: 7.8%
+OPEN LONG | Price: 0.3159 | SL: 0.3142 | Risk: 1.01% | Size: 749128.09
+CLOSE [stop_loss] | Gross: -1303.47 | Costs: 259.57 | Net: -1563.04 | Eq: 158822.32 | DD: 7.8%
+OPEN LONG | Price: 0.3239 | SL: 0.3219 | Risk: 1.01% | Size: 665715.19
+CLOSE [stop_loss] | Gross: -859.85 | Costs: 236.69 | Net: -1096.54 | Eq: 157725.78 | DD: 7.8%
+OPEN LONG | Price: 0.3202 | SL: 0.318 | Risk: 1.01% | Size: 593953.81
+CLOSE [breakeven_stop] | Gross: 300.03 | Costs: 209.34 | Net: 90.68 | Eq: 157816.46 | DD: 7.8%
+OPEN LONG | Price: 0.3268 | SL: 0.3247 | Risk: 1.01% | Size: 629629.16
+CLOSE [breakeven_stop] | Gross: 265.36 | Costs: 226.46 | Net: 38.9 | Eq: 157855.36 | DD: 7.8%
+OPEN LONG | Price: 0.3259 | SL: 0.3239 | Risk: 1.1% | Size: 720917.27
+CLOSE [breakeven_stop] | Gross: 3098.97 | Costs: 265.58 | Net: 2833.39 | Eq: 160688.75 | DD: 7.8%
+OPEN LONG | Price: 0.332 | SL: 0.3301 | Risk: 1.01% | Size: 694705.02
+CLOSE [stop_loss] | Gross: -1314.64 | Costs: 252.96 | Net: -1567.6 | Eq: 159121.15 | DD: 7.8%
+OPEN LONG | Price: 0.335 | SL: 0.3332 | Risk: 1.01% | Size: 705958.17
+CLOSE [stop_loss] | Gross: -1290.88 | Costs: 259.41 | Net: -1550.29 | Eq: 157570.86 | DD: 7.8%
+Progress: 74.3% | Trades: 544 | Equity: 157570.86 | Fees: $40732.03 | Funding: $223.18
+OPEN LONG | Price: 0.3309 | SL: 0.3279 | Risk: 1.01% | Size: 456087.14
+CLOSE [stop_loss] | Gross: -1070.15 | Costs: 165.41 | Net: -1235.56 | Eq: 156335.3 | DD: 7.8%
+OPEN LONG | Price: 0.316 | SL: 0.3143 | Risk: 0.97% | Size: 694977.95
+CLOSE [breakeven_stop] | Gross: 283.22 | Costs: 241.7 | Net: 41.52 | Eq: 156376.82 | DD: 7.8%
+OPEN LONG | Price: 0.3084 | SL: 0.3067 | Risk: 0.97% | Size: 698821.81
+CLOSE [stop_loss] | Gross: -1222.64 | Costs: 236.37 | Net: -1459.0 | Eq: 154917.82 | DD: 7.8%
+Progress: 75.7% | Trades: 547 | Equity: 154917.82 | Fees: $41375.51 | Funding: $223.18
+OPEN LONG | Price: 0.3242 | SL: 0.3216 | Risk: 0.97% | Size: 492163.91
+CLOSE [breakeven_stop] | Gross: 1348.49 | Costs: 178.35 | Net: 1170.14 | Eq: 156087.96 | DD: 7.8%
+OPEN LONG | Price: 0.3152 | SL: 0.3131 | Risk: 0.88% | Size: 540649.11
+CLOSE [breakeven_stop] | Gross: 821.01 | Costs: 189.76 | Net: 631.25 | Eq: 156719.21 | DD: 7.8%
+OPEN LONG | Price: 0.3117 | SL: 0.31 | Risk: 0.88% | Size: 641563.9
+CLOSE [breakeven_stop] | Gross: 3715.08 | Costs: 223.09 | Net: 3491.99 | Eq: 160211.21 | DD: 7.8%
+OPEN LONG | Price: 0.3213 | SL: 0.3193 | Risk: 1.01% | Size: 655151.07
+CLOSE [breakeven_stop] | Gross: 10924.59 | Costs: 237.53 | Net: 10687.06 | Eq: 170898.26 | DD: 7.8%
+OPEN LONG | Price: 0.3511 | SL: 0.3468 | Risk: 1.01% | Size: 364254.02
+CLOSE [breakeven_stop] | Gross: 2932.09 | Costs: 142.28 | Net: 2789.81 | Eq: 173688.07 | DD: 7.8%
+OPEN LONG | Price: 0.3652 | SL: 0.3621 | Risk: 1.01% | Size: 485189.06
+CLOSE [breakeven_stop] | Gross: 1398.91 | Costs: 198.99 | Net: 1199.92 | Eq: 174887.99 | DD: 7.8%
+OPEN LONG | Price: 0.3625 | SL: 0.3604 | Risk: 1.01% | Size: 686148.22
+CLOSE [stop_loss] | Gross: -1433.9 | Costs: 272.79 | Net: -1706.69 | Eq: 173181.3 | DD: 7.8%
+OPEN LONG | Price: 0.3533 | SL: 0.3513 | Risk: 1.01% | Size: 709784.83
+CLOSE [stop_loss] | Gross: -1413.88 | Costs: 275.04 | Net: -1688.92 | Eq: 171492.38 | DD: 7.8%
+OPEN LONG | Price: 0.3458 | SL: 0.3434 | Risk: 1.1% | Size: 648681.22
+CLOSE [stop_loss] | Gross: -1590.25 | Costs: 245.85 | Net: -1836.09 | Eq: 169656.28 | DD: 7.8%
+OPEN LONG | Price: 0.3361 | SL: 0.3342 | Risk: 1.1% | Size: 805410.33
+CLOSE [breakeven_stop] | Gross: 4201.74 | Costs: 305.13 | Net: 3896.61 | Eq: 173552.9 | DD: 7.8%
+OPEN LONG | Price: 0.3382 | SL: 0.3362 | Risk: 1.01% | Size: 708584.93
+CLOSE [breakeven_stop] | Gross: 382.28 | Costs: 263.79 | Net: 118.49 | Eq: 173671.38 | DD: 7.8%
+OPEN LONG | Price: 0.3424 | SL: 0.3406 | Risk: 1.01% | Size: 785129.78
+CLOSE [stop_loss] | Gross: -1394.47 | Costs: 294.92 | Net: -1689.38 | Eq: 171982.0 | DD: 7.8%
+Progress: 77.1% | Trades: 559 | Equity: 171982.0 | Fees: $44203.03 | Funding: $223.18
+OPEN LONG | Price: 0.3101 | SL: 0.3083 | Risk: 1.1% | Size: 850301.68
+CLOSE [breakeven_stop] | Gross: 822.85 | Costs: 293.36 | Net: 529.49 | Eq: 172511.49 | DD: 7.8%
+OPEN LONG | Price: 0.3106 | SL: 0.3089 | Risk: 1.01% | Size: 837844.23
+CLOSE [breakeven_stop] | Gross: 410.53 | Costs: 286.45 | Net: 124.08 | Eq: 172635.57 | DD: 7.8%
+OPEN LONG | Price: 0.3116 | SL: 0.31 | Risk: 1.01% | Size: 859936.46
+CLOSE [stop_loss] | Gross: -1385.17 | Costs: 293.95 | Net: -1679.13 | Eq: 170956.45 | DD: 7.8%
+OPEN LONG | Price: 0.3139 | SL: 0.3121 | Risk: 1.01% | Size: 758304.99
+CLOSE [breakeven_stop] | Gross: 5841.71 | Costs: 265.02 | Net: 5576.69 | Eq: 176533.14 | DD: 7.8%
+OPEN LONG | Price: 0.3117 | SL: 0.3093 | Risk: 1.01% | Size: 632476.23
+CLOSE [stop_loss] | Gross: -1520.18 | Costs: 215.99 | Net: -1736.18 | Eq: 174796.96 | DD: 7.8%
+OPEN LONG | Price: 0.2994 | SL: 0.2976 | Risk: 1.01% | Size: 797937.52
+CLOSE [breakeven_stop] | Gross: 2256.58 | Costs: 287.89 | Net: 1968.7 | Eq: 176741.77 | DD: 7.8%
+OPEN LONG | Price: 0.3066 | SL: 0.3047 | Risk: 1.1% | Size: 831883.34
+CLOSE [breakeven_stop] | Gross: 5381.95 | Costs: 289.12 | Net: 5092.82 | Eq: 181834.59 | DD: 7.8%
+OPEN LONG | Price: 0.3112 | SL: 0.3094 | Risk: 1.1% | Size: 911460.86
+CLOSE [breakeven_stop] | Gross: 1543.42 | Costs: 318.15 | Net: 1225.27 | Eq: 183059.86 | DD: 7.8%
+OPEN LONG | Price: 0.3108 | SL: 0.3081 | Risk: 1.01% | Size: 585117.5
+CLOSE [breakeven_stop] | Gross: 669.04 | Costs: 200.38 | Net: 468.65 | Eq: 183528.52 | DD: 7.8%
+OPEN LONG | Price: 0.3003 | SL: 0.2978 | Risk: 1.1% | Size: 708172.29
+CLOSE [breakeven_stop] | Gross: 6582.42 | Costs: 237.52 | Net: 6344.91 | Eq: 189873.42 | DD: 7.8%
+OPEN LONG | Price: 0.314 | SL: 0.3112 | Risk: 1.01% | Size: 595909.36
+CLOSE [breakeven_stop] | Gross: 586.6 | Costs: 227.08 | Net: 359.52 | Eq: 190214.05 | DD: 7.8%
+OPEN LONG | Price: 0.3122 | SL: 0.3103 | Risk: 1.1% | Size: 884051.11
+CLOSE [stop_loss] | Gross: -1727.15 | Costs: 302.61 | Net: -2029.77 | Eq: 188184.28 | DD: 7.8%
+Progress: 78.6% | Trades: 571 | Equity: 188184.28 | Fees: $47377.78 | Funding: $265.97
+OPEN LONG | Price: 0.3169 | SL: 0.3152 | Risk: 1.01% | Size: 909835.85
+CLOSE [stop_loss] | Gross: -1418.32 | Costs: 316.34 | Net: -1734.67 | Eq: 186449.61 | DD: 7.8%
+OPEN LONG | Price: 0.3086 | SL: 0.3057 | Risk: 1.01% | Size: 565901.81
+CLOSE [breakeven_stop] | Gross: 2565.82 | Costs: 193.49 | Net: 2372.33 | Eq: 188821.95 | DD: 7.8%
+OPEN LONG | Price: 0.2862 | SL: 0.2844 | Risk: 1.01% | Size: 891466.71
+CLOSE [breakeven_stop] | Gross: 329.02 | Costs: 280.79 | Net: 48.23 | Eq: 188870.18 | DD: 7.8%
+OPEN LONG | Price: 0.2878 | SL: 0.2861 | Risk: 1.01% | Size: 922954.22
+CLOSE [breakeven_stop] | Gross: 2877.01 | Costs: 293.73 | Net: 2583.29 | Eq: 191453.47 | DD: 7.8%
+OPEN LONG | Price: 0.2948 | SL: 0.2932 | Risk: 1.01% | Size: 965652.8
+CLOSE [breakeven_stop] | Gross: 992.8 | Costs: 313.64 | Net: 679.16 | Eq: 192132.62 | DD: 7.8%
+Progress: 80.0% | Trades: 576 | Equity: 192132.62 | Fees: $48775.78 | Funding: $265.97
+OPEN LONG | Price: 0.2978 | SL: 0.2957 | Risk: 1.01% | Size: 776578.0
+CLOSE [breakeven_stop] | Gross: 1114.84 | Costs: 254.97 | Net: 859.87 | Eq: 192992.49 | DD: 7.8%
+OPEN LONG | Price: 0.3023 | SL: 0.3005 | Risk: 1.01% | Size: 879273.34
+CLOSE [stop_loss] | Gross: -1594.06 | Costs: 291.47 | Net: -1885.53 | Eq: 191106.96 | DD: 7.8%
+OPEN LONG | Price: 0.2706 | SL: 0.2691 | Risk: 1.1% | Size: 1139052.35
+CLOSE [breakeven_stop] | Gross: 249.58 | Costs: 339.13 | Net: -89.55 | Eq: 191017.4 | DD: 7.8%
+OPEN LONG | Price: 0.2625 | SL: 0.2598 | Risk: 1.01% | Size: 638113.35
+CLOSE [breakeven_stop] | Gross: 216.01 | Costs: 184.34 | Net: 31.67 | Eq: 191049.07 | DD: 7.8%
+OPEN LONG | Price: 0.2338 | SL: 0.2323 | Risk: 1.01% | Size: 1032698.38
+CLOSE [breakeven_stop] | Gross: 2773.01 | Costs: 270.9 | Net: 2502.11 | Eq: 193551.18 | DD: 7.8%
+OPEN LONG | Price: 0.2365 | SL: 0.2353 | Risk: 1.1% | Size: 1311067.36
+CLOSE [breakeven_stop] | Gross: 1207.17 | Costs: 344.19 | Net: 862.98 | Eq: 194414.16 | DD: 7.8%
+OPEN LONG | Price: 0.2377 | SL: 0.2365 | Risk: 1.1% | Size: 1369414.65
+CLOSE [breakeven_stop] | Gross: 710.83 | Costs: 369.38 | Net: 341.45 | Eq: 194755.61 | DD: 7.8%
+Progress: 81.4% | Trades: 583 | Equity: 194755.61 | Fees: $50830.16 | Funding: $265.97
+OPEN LONG | Price: 0.2309 | SL: 0.2283 | Risk: 1.1% | Size: 710779.7
+CLOSE [breakeven_stop] | Gross: 1622.7 | Costs: 182.72 | Net: 1439.98 | Eq: 196195.6 | DD: 7.8%
+OPEN LONG | Price: 0.2272 | SL: 0.2255 | Risk: 1.1% | Size: 1021967.97
+CLOSE [breakeven_stop] | Gross: 2265.7 | Costs: 256.71 | Net: 2008.99 | Eq: 198204.58 | DD: 7.8%
+OPEN LONG | Price: 0.2292 | SL: 0.2279 | Risk: 1.01% | Size: 1162118.7
+CLOSE [breakeven_stop] | Gross: 4944.55 | Costs: 295.77 | Net: 4648.78 | Eq: 202853.36 | DD: 7.8%
+OPEN LONG | Price: 0.2274 | SL: 0.2262 | Risk: 1.01% | Size: 1313759.27
+CLOSE [breakeven_stop] | Gross: 1301.32 | Costs: 329.41 | Net: 971.92 | Eq: 203825.28 | DD: 7.8%
+OPEN LONG | Price: 0.2213 | SL: 0.2178 | Risk: 1.01% | Size: 543254.03
+CLOSE [breakeven_stop] | Gross: 155.06 | Costs: 132.33 | Net: 22.73 | Eq: 203848.01 | DD: 7.8%
+OPEN LONG | Price: 0.2163 | SL: 0.2145 | Risk: 1.01% | Size: 971548.99
+CLOSE [stop_loss] | Gross: -1779.0 | Costs: 230.16 | Net: -2009.17 | Eq: 201838.84 | DD: 7.8%
+OPEN LONG | Price: 0.2184 | SL: 0.217 | Risk: 1.1% | Size: 1260621.74
+CLOSE [breakeven_stop] | Gross: 4305.91 | Costs: 305.24 | Net: 4000.67 | Eq: 205839.52 | DD: 7.8%
+OPEN LONG | Price: 0.2239 | SL: 0.2227 | Risk: 1.01% | Size: 1304414.47
+CLOSE [breakeven_stop] | Gross: 1354.17 | Costs: 322.04 | Net: 1032.13 | Eq: 206871.64 | DD: 7.8%
+OPEN LONG | Price: 0.2253 | SL: 0.2235 | Risk: 1.01% | Size: 981691.52
+CLOSE [breakeven_stop] | Gross: 1397.96 | Costs: 244.06 | Net: 1153.9 | Eq: 208025.55 | DD: 7.8%
+OPEN LONG | Price: 0.2224 | SL: 0.2203 | Risk: 1.1% | Size: 936680.91
+CLOSE [breakeven_stop] | Gross: 168.73 | Costs: 229.27 | Net: -60.54 | Eq: 207965.0 | DD: 7.8%
+OPEN LONG | Price: 0.2162 | SL: 0.2136 | Risk: 1.01% | Size: 725449.59
+CLOSE [breakeven_stop] | Gross: 1987.67 | Costs: 173.63 | Net: 1814.04 | Eq: 209779.05 | DD: 7.8%
+OPEN LONG | Price: 0.2073 | SL: 0.2054 | Risk: 1.01% | Size: 938055.02
+CLOSE [breakeven_stop] | Gross: 890.29 | Costs: 214.44 | Net: 675.85 | Eq: 210454.9 | DD: 7.8%
+OPEN LONG | Price: 0.1828 | SL: 0.1805 | Risk: 1.1% | Size: 899084.13
+CLOSE [stop_loss] | Gross: -1862.22 | Costs: 179.77 | Net: -2041.99 | Eq: 208412.91 | DD: 10.67%
+OPEN LONG | Price: 0.1878 | SL: 0.1851 | Risk: 1.01% | Size: 710952.89
+CLOSE [breakeven_stop] | Gross: 6255.9 | Costs: 150.28 | Net: 6105.62 | Eq: 214518.53 | DD: 10.67%
+OPEN LONG | Price: 0.1969 | SL: 0.1954 | Risk: 1.01% | Size: 1229723.19
+CLOSE [stop_loss] | Gross: -1843.75 | Costs: 265.36 | Net: -2109.1 | Eq: 212409.43 | DD: 10.67%
+OPEN LONG | Price: 0.1951 | SL: 0.1934 | Risk: 1.01% | Size: 1104120.35
+CLOSE [breakeven_stop] | Gross: 1134.96 | Costs: 237.53 | Net: 897.43 | Eq: 213306.86 | DD: 10.67%
+Progress: 82.9% | Trades: 599 | Equity: 213306.86 | Fees: $54578.87 | Funding: $265.97
+OPEN LONG | Price: 0.1971 | SL: 0.1959 | Risk: 1.01% | Size: 1461060.43
+CLOSE [stop_loss] | Gross: -1769.6 | Costs: 315.83 | Net: -2085.43 | Eq: 211221.43 | DD: 10.67%
+OPEN LONG | Price: 0.1956 | SL: 0.1931 | Risk: 1.01% | Size: 767098.59
+CLOSE [breakeven_stop] | Gross: 445.48 | Costs: 165.26 | Net: 280.22 | Eq: 211501.65 | DD: 10.67%
+OPEN LONG | Price: 0.1945 | SL: 0.1932 | Risk: 1.01% | Size: 1323622.0
+CLOSE [breakeven_stop] | Gross: 332.01 | Costs: 283.34 | Net: 48.67 | Eq: 211550.32 | DD: 10.67%
+OPEN LONG | Price: 0.1917 | SL: 0.1907 | Risk: 1.1% | Size: 1832692.19
+CLOSE [stop_loss] | Gross: -1860.91 | Costs: 385.47 | Net: -2246.38 | Eq: 209303.94 | DD: 10.67%
+OPEN LONG | Price: 0.1894 | SL: 0.1882 | Risk: 1.01% | Size: 1441837.67
+CLOSE [breakeven_stop] | Gross: 3417.63 | Costs: 302.24 | Net: 3115.39 | Eq: 212419.33 | DD: 10.67%
+OPEN LONG | Price: 0.186 | SL: 0.1845 | Risk: 1.01% | Size: 1199718.79
+CLOSE [breakeven_stop] | Gross: 4966.17 | Costs: 248.16 | Net: 4718.01 | Eq: 217137.34 | DD: 10.67%
+OPEN LONG | Price: 0.189 | SL: 0.1873 | Risk: 1.01% | Size: 1107050.89
+CLOSE [breakeven_stop] | Gross: 1294.34 | Costs: 234.11 | Net: 1060.23 | Eq: 218197.57 | DD: 10.67%
+OPEN LONG | Price: 0.1737 | SL: 0.172 | Risk: 1.1% | Size: 1238609.69
+CLOSE [breakeven_stop] | Gross: 4324.89 | Costs: 242.61 | Net: 4082.28 | Eq: 222279.85 | DD: 10.67%
+OPEN LONG | Price: 0.1782 | SL: 0.1767 | Risk: 1.01% | Size: 1258308.21
+CLOSE [stop_loss] | Gross: -1946.43 | Costs: 245.62 | Net: -2192.05 | Eq: 220087.8 | DD: 10.67%
+Progress: 84.3% | Trades: 608 | Equity: 220087.8 | Fees: $57001.51 | Funding: $265.97
+OPEN LONG | Price: 0.1769 | SL: 0.1752 | Risk: 1.01% | Size: 1133694.34
+CLOSE [breakeven_stop] | Gross: 258.66 | Costs: 220.74 | Net: 37.92 | Eq: 220125.72 | DD: 10.67%
+OPEN LONG | Price: 0.1797 | SL: 0.1781 | Risk: 1.01% | Size: 1192508.72
+CLOSE [breakeven_stop] | Gross: 3269.5 | Costs: 258.89 | Net: 3010.61 | Eq: 223114.9 | DD: 10.67%
+OPEN LONG | Price: 0.1811 | SL: 0.1801 | Risk: 1.01% | Size: 1808092.58
+CLOSE [breakeven_stop] | Gross: 516.61 | Costs: 360.47 | Net: 156.15 | Eq: 223271.05 | DD: 10.67%
+OPEN LONG | Price: 0.1878 | SL: 0.1864 | Risk: 1.1% | Size: 1437940.54
+CLOSE [breakeven_stop] | Gross: 1841.09 | Costs: 301.03 | Net: 1540.06 | Eq: 224811.11 | DD: 10.67%
+OPEN LONG | Price: 0.1885 | SL: 0.1875 | Risk: 1.1% | Size: 1976694.08
+CLOSE [breakeven_stop] | Gross: 1671.56 | Costs: 419.0 | Net: 1252.56 | Eq: 226063.68 | DD: 10.67%
+OPEN LONG | Price: 0.1953 | SL: 0.1943 | Risk: 1.01% | Size: 1715858.85
+CLOSE [breakeven_stop] | Gross: 3350.62 | Costs: 370.46 | Net: 2980.16 | Eq: 229043.84 | DD: 10.67%
+OPEN LONG | Price: 0.1963 | SL: 0.1952 | Risk: 1.01% | Size: 1651710.43
+CLOSE [breakeven_stop] | Gross: 2163.38 | Costs: 360.3 | Net: 1803.08 | Eq: 230846.91 | DD: 10.67%
+Progress: 85.7% | Trades: 615 | Equity: 230846.91 | Fees: $59270.97 | Funding: $287.39
+OPEN LONG | Price: 0.1427 | SL: 0.1404 | Risk: 1.01% | Size: 948939.66
+CLOSE [breakeven_stop] | Gross: 182.16 | Costs: 149.03 | Net: 33.12 | Eq: 230880.04 | DD: 10.67%
+OPEN LONG | Price: 0.131 | SL: 0.1296 | Risk: 1.01% | Size: 1408323.31
+CLOSE [breakeven_stop] | Gross: 554.69 | Costs: 203.32 | Net: 351.37 | Eq: 231231.41 | DD: 10.67%
+OPEN LONG | Price: 0.1282 | SL: 0.1274 | Risk: 1.01% | Size: 2191663.01
+CLOSE [stop_loss] | Gross: -1960.36 | Costs: 308.08 | Net: -2268.43 | Eq: 228962.97 | DD: 10.67%
+OPEN LONG | Price: 0.1287 | SL: 0.1279 | Risk: 1.01% | Size: 2407884.19
+CLOSE [breakeven_stop] | Gross: 3474.2 | Costs: 342.73 | Net: 3131.47 | Eq: 232094.44 | DD: 10.67%
+OPEN LONG | Price: 0.1314 | SL: 0.1304 | Risk: 1.01% | Size: 1849926.99
+CLOSE [breakeven_stop] | Gross: 313.63 | Costs: 291.97 | Net: 21.66 | Eq: 232091.78 | DD: 10.67%
+OPEN LONG | Price: 0.1247 | SL: 0.1239 | Risk: 1.01% | Size: 2391572.22
+CLOSE [breakeven_stop] | Gross: 638.44 | Costs: 328.5 | Net: 309.95 | Eq: 232401.73 | DD: 10.67%
+Progress: 87.1% | Trades: 621 | Equity: 232401.73 | Fees: $60870.28 | Funding: $311.71
+OPEN LONG | Price: 0.122 | SL: 0.1213 | Risk: 1.01% | Size: 2500639.56
+CLOSE [breakeven_stop] | Gross: 2528.55 | Costs: 337.02 | Net: 2191.53 | Eq: 234593.26 | DD: 10.67%
+OPEN LONG | Price: 0.1235 | SL: 0.1227 | Risk: 1.01% | Size: 2325352.94
+CLOSE [breakeven_stop] | Gross: 1568.53 | Costs: 316.75 | Net: 1251.78 | Eq: 235845.04 | DD: 10.67%
+OPEN LONG | Price: 0.1215 | SL: 0.1204 | Risk: 1.01% | Size: 1859362.31
+CLOSE [stop_loss] | Gross: -856.01 | Costs: 247.98 | Net: -1103.99 | Eq: 234741.05 | DD: 10.67%
+OPEN LONG | Price: 0.1249 | SL: 0.1235 | Risk: 1.01% | Size: 1504389.95
+CLOSE [stop_loss] | Gross: -1463.91 | Costs: 205.84 | Net: -1669.75 | Eq: 233071.29 | DD: 10.67%
+OPEN LONG | Price: 0.1217 | SL: 0.1206 | Risk: 1.01% | Size: 1905437.65
+CLOSE [stop_loss] | Gross: -2045.39 | Costs: 253.9 | Net: -2299.29 | Eq: 230772.0 | DD: 10.67%
+OPEN LONG | Price: 0.1166 | SL: 0.1154 | Risk: 1.01% | Size: 1783455.04
+CLOSE [breakeven_stop] | Gross: 2064.4 | Costs: 229.81 | Net: 1834.6 | Eq: 232606.6 | DD: 10.67%
+OPEN LONG | Price: 0.1196 | SL: 0.1188 | Risk: 1.01% | Size: 2240737.88
+CLOSE [breakeven_stop] | Gross: 12463.85 | Costs: 328.56 | Net: 12135.28 | Eq: 244715.07 | DD: 10.67%
+OPEN LONG | Price: 0.1279 | SL: 0.1268 | Risk: 1.01% | Size: 1857886.97
+CLOSE [breakeven_stop] | Gross: 3675.29 | Costs: 265.31 | Net: 3409.98 | Eq: 248125.05 | DD: 10.67%
+OPEN LONG | Price: 0.1301 | SL: 0.129 | Risk: 1.01% | Size: 1852367.7
+CLOSE [stop_loss] | Gross: -2185.25 | Costs: 288.09 | Net: -2473.34 | Eq: 245627.61 | DD: 10.67%
+OPEN LONG | Price: 0.1268 | SL: 0.1252 | Risk: 1.01% | Size: 1428165.79
+CLOSE [breakeven_stop] | Gross: 233.52 | Costs: 199.29 | Net: 34.23 | Eq: 245661.84 | DD: 10.67%
+OPEN LONG | Price: 0.1241 | SL: 0.1231 | Risk: 1.01% | Size: 2041126.26
+CLOSE [breakeven_stop] | Gross: 1645.39 | Costs: 282.43 | Net: 1362.96 | Eq: 247024.8 | DD: 10.67%
+OPEN LONG | Price: 0.1219 | SL: 0.1212 | Risk: 1.01% | Size: 2981399.4
+CLOSE [breakeven_stop] | Gross: 15930.37 | Costs: 444.72 | Net: 15485.65 | Eq: 262474.12 | DD: 10.67%
+OPEN LONG | Price: 0.1269 | SL: 0.1256 | Risk: 1.01% | Size: 1846478.91
+CLOSE [stop_loss] | Gross: -2339.6 | Costs: 256.43 | Net: -2596.03 | Eq: 259878.09 | DD: 10.67%
+Progress: 88.6% | Trades: 634 | Equity: 259878.09 | Fees: $64439.16 | Funding: $398.95
+OPEN LONG | Price: 0.1114 | SL: 0.1102 | Risk: 1.1% | Size: 2168359.81
+CLOSE [stop_loss] | Gross: -1061.45 | Costs: 265.08 | Net: -1326.53 | Eq: 258551.56 | DD: 10.67%
+OPEN LONG | Price: 0.1128 | SL: 0.1116 | Risk: 1.01% | Size: 1987236.09
+CLOSE [breakeven_stop] | Gross: 935.54 | Costs: 249.52 | Net: 686.02 | Eq: 259237.57 | DD: 10.67%
+OPEN LONG | Price: 0.1136 | SL: 0.1128 | Risk: 1.01% | Size: 2887524.23
+CLOSE [breakeven_stop] | Gross: 21631.37 | Costs: 409.34 | Net: 21222.03 | Eq: 280426.48 | DD: 10.67%
+OPEN LONG | Price: 0.1212 | SL: 0.1201 | Risk: 1.01% | Size: 2322128.38
+CLOSE [breakeven_stop] | Gross: 362.92 | Costs: 309.72 | Net: 53.2 | Eq: 280479.69 | DD: 10.67%
+OPEN LONG | Price: 0.1209 | SL: 0.1198 | Risk: 1.01% | Size: 2151528.55
+CLOSE [breakeven_stop] | Gross: 2146.97 | Costs: 287.42 | Net: 1859.55 | Eq: 282339.23 | DD: 10.67%
+OPEN LONG | Price: 0.1235 | SL: 0.1224 | Risk: 1.01% | Size: 2370793.3
+CLOSE [stop_loss] | Gross: -2461.75 | Costs: 320.63 | Net: -2782.38 | Eq: 279556.86 | DD: 10.67%
+OPEN LONG | Price: 0.1261 | SL: 0.1252 | Risk: 1.01% | Size: 2757695.13
+CLOSE [breakeven_stop] | Gross: 3559.11 | Costs: 384.4 | Net: 3174.71 | Eq: 282731.56 | DD: 10.67%
+OPEN LONG | Price: 0.1224 | SL: 0.1216 | Risk: 1.01% | Size: 2904578.9
+CLOSE [breakeven_stop] | Gross: 2406.1 | Costs: 392.51 | Net: 2013.6 | Eq: 284745.16 | DD: 10.67%
+OPEN LONG | Price: 0.1265 | SL: 0.1253 | Risk: 1.1% | Size: 2324771.87
+CLOSE [breakeven_stop] | Gross: 1725.14 | Costs: 326.64 | Net: 1398.5 | Eq: 286143.66 | DD: 10.67%
+OPEN LONG | Price: 0.1266 | SL: 0.1256 | Risk: 1.01% | Size: 2443299.05
+CLOSE [stop_loss] | Gross: -2477.97 | Costs: 338.77 | Net: -2816.74 | Eq: 283326.92 | DD: 10.67%
+OPEN LONG | Price: 0.1271 | SL: 0.1263 | Risk: 1.01% | Size: 3017268.99
+CLOSE [breakeven_stop] | Gross: 827.38 | Costs: 422.28 | Net: 405.09 | Eq: 283732.01 | DD: 10.67%
+OPEN LONG | Price: 0.1275 | SL: 0.1266 | Risk: 1.01% | Size: 2689335.39
+CLOSE [stop_loss] | Gross: -2408.09 | Costs: 410.16 | Net: -2818.25 | Eq: 280879.46 | DD: 10.67%
+OPEN LONG | Price: 0.1291 | SL: 0.1279 | Risk: 1.01% | Size: 2176949.03
+CLOSE [breakeven_stop] | Gross: 702.7 | Costs: 309.43 | Net: 393.27 | Eq: 281272.74 | DD: 10.67%
+OPEN LONG | Price: 0.1287 | SL: 0.1277 | Risk: 1.01% | Size: 2369494.07
+CLOSE [breakeven_stop] | Gross: 1775.37 | Costs: 341.21 | Net: 1434.16 | Eq: 282706.9 | DD: 10.67%
+OPEN LONG | Price: 0.1298 | SL: 0.129 | Risk: 1.01% | Size: 2793872.01
+CLOSE [breakeven_stop] | Gross: 467.83 | Costs: 399.25 | Net: 68.58 | Eq: 282775.48 | DD: 10.67%
+Progress: 90.0% | Trades: 649 | Equity: 282775.48 | Fees: $69538.11 | Funding: $466.36
+OPEN LONG | Price: 0.1272 | SL: 0.1265 | Risk: 1.01% | Size: 3021042.63
+CLOSE [breakeven_stop] | Gross: 1657.37 | Costs: 423.67 | Net: 1233.7 | Eq: 284009.18 | DD: 10.67%
+OPEN LONG | Price: 0.1266 | SL: 0.1259 | Risk: 1.01% | Size: 3111026.07
+CLOSE [stop_loss] | Gross: -2342.02 | Costs: 432.04 | Net: -2774.06 | Eq: 281235.12 | DD: 10.67%
+OPEN LONG | Price: 0.1164 | SL: 0.1155 | Risk: 1.01% | Size: 2799301.39
+CLOSE [breakeven_stop] | Gross: 2568.5 | Costs: 359.78 | Net: 2208.72 | Eq: 283443.84 | DD: 10.67%
+OPEN LONG | Price: 0.1191 | SL: 0.1182 | Risk: 1.01% | Size: 2669929.11
+CLOSE [stop_loss] | Gross: -2438.83 | Costs: 348.43 | Net: -2787.26 | Eq: 280656.59 | DD: 10.67%
+OPEN LONG | Price: 0.1193 | SL: 0.1186 | Risk: 1.01% | Size: 3182142.93
+CLOSE [breakeven_stop] | Gross: 1555.12 | Costs: 418.53 | Net: 1136.59 | Eq: 281793.17 | DD: 10.67%
+OPEN LONG | Price: 0.1195 | SL: 0.1189 | Risk: 1.01% | Size: 3557076.65
+CLOSE [breakeven_stop] | Gross: 3538.08 | Costs: 469.42 | Net: 3068.65 | Eq: 284861.83 | DD: 10.67%
+Progress: 91.4% | Trades: 655 | Equity: 284861.83 | Fees: $71989.98 | Funding: $466.36
+OPEN LONG | Price: 0.1215 | SL: 0.1208 | Risk: 1.01% | Size: 3110105.93
+CLOSE [breakeven_stop] | Gross: 1434.09 | Costs: 422.34 | Net: 1011.74 | Eq: 285873.57 | DD: 10.67%
+OPEN LONG | Price: 0.1169 | SL: 0.1162 | Risk: 1.01% | Size: 3517511.72
+CLOSE [breakeven_stop] | Gross: 6316.8 | Costs: 455.73 | Net: 5861.08 | Eq: 291734.65 | DD: 10.67%
+OPEN LONG | Price: 0.1194 | SL: 0.1187 | Risk: 1.01% | Size: 3564089.55
+CLOSE [breakeven_stop] | Gross: 1762.95 | Costs: 469.01 | Net: 1293.94 | Eq: 293028.59 | DD: 10.67%
+OPEN LONG | Price: 0.1196 | SL: 0.1189 | Risk: 1.01% | Size: 3212864.61
+CLOSE [breakeven_stop] | Gross: 16596.39 | Costs: 436.1 | Net: 16160.29 | Eq: 309188.87 | DD: 10.67%
+OPEN LONG | Price: 0.1233 | SL: 0.1226 | Risk: 1.01% | Size: 3689103.27
+CLOSE [breakeven_stop] | Gross: 2681.27 | Costs: 501.85 | Net: 2179.42 | Eq: 311368.3 | DD: 10.67%
+OPEN LONG | Price: 0.1247 | SL: 0.124 | Risk: 1.01% | Size: 3763030.56
+CLOSE [breakeven_stop] | Gross: 2562.27 | Costs: 517.48 | Net: 2044.79 | Eq: 313413.09 | DD: 10.67%
+OPEN LONG | Price: 0.1262 | SL: 0.1253 | Risk: 1.01% | Size: 2734100.75
+CLOSE [breakeven_stop] | Gross: 445.16 | Costs: 414.41 | Net: 30.74 | Eq: 313409.32 | DD: 10.67%
+OPEN LONG | Price: 0.1257 | SL: 0.125 | Risk: 1.01% | Size: 3482533.87
+CLOSE [breakeven_stop] | Gross: 2636.52 | Costs: 485.52 | Net: 2151.0 | Eq: 315560.32 | DD: 10.67%
+Progress: 92.9% | Trades: 663 | Equity: 315560.32 | Fees: $75657.91 | Funding: $500.88
+OPEN LONG | Price: 0.1283 | SL: 0.1277 | Risk: 1.01% | Size: 3727383.82
+CLOSE [stop_loss] | Gross: -2547.42 | Costs: 572.54 | Net: -3119.96 | Eq: 312392.53 | DD: 10.67%
+OPEN LONG | Price: 0.1293 | SL: 0.1287 | Risk: 1.01% | Size: 3620057.36
+CLOSE [breakeven_stop] | Gross: 8878.86 | Costs: 519.95 | Net: 8358.91 | Eq: 320751.44 | DD: 10.67%
+OPEN LONG | Price: 0.1314 | SL: 0.1304 | Risk: 1.01% | Size: 2813267.49
+CLOSE [stop_loss] | Gross: -2746.72 | Costs: 441.94 | Net: -3188.66 | Eq: 317525.83 | DD: 10.67%
+OPEN LONG | Price: 0.1344 | SL: 0.1335 | Risk: 1.01% | Size: 2894446.27
+CLOSE [breakeven_stop] | Gross: 11791.22 | Costs: 439.57 | Net: 11351.65 | Eq: 328877.48 | DD: 10.67%
+OPEN LONG | Price: 0.1368 | SL: 0.1357 | Risk: 1.01% | Size: 2660718.28
+CLOSE [breakeven_stop] | Gross: 2530.88 | Costs: 401.71 | Net: 2129.17 | Eq: 331006.65 | DD: 10.67%
+OPEN LONG | Price: 0.134 | SL: 0.1334 | Risk: 0.83% | Size: 3064723.92
+CLOSE [breakeven_stop] | Gross: 3439.4 | Costs: 453.79 | Net: 2985.61 | Eq: 333992.26 | DD: 10.67%
+Progress: 94.3% | Trades: 669 | Equity: 333992.26 | Fees: $78402.62 | Funding: $585.66
+OPEN LONG | Price: 0.1153 | SL: 0.1146 | Risk: 1.01% | Size: 4094864.32
+CLOSE [breakeven_stop] | Gross: 3257.06 | Costs: 533.63 | Net: 2723.43 | Eq: 336715.69 | DD: 10.67%
+OPEN LONG | Price: 0.1165 | SL: 0.1155 | Risk: 1.01% | Size: 2925448.96
+CLOSE [breakeven_stop] | Gross: 1695.66 | Costs: 417.01 | Net: 1278.65 | Eq: 337959.67 | DD: 10.67%
+OPEN LONG | Price: 0.114 | SL: 0.1135 | Risk: 1.01% | Size: 4608713.03
+CLOSE [breakeven_stop] | Gross: 2277.01 | Costs: 585.08 | Net: 1691.93 | Eq: 339651.6 | DD: 10.67%
+OPEN LONG | Price: 0.1122 | SL: 0.1114 | Risk: 1.01% | Size: 3365897.63
+CLOSE [breakeven_stop] | Gross: 1484.09 | Costs: 416.36 | Net: 1067.73 | Eq: 340719.33 | DD: 10.67%
+OPEN LONG | Price: 0.1143 | SL: 0.1137 | Risk: 1.01% | Size: 4539374.55
+CLOSE [stop_loss] | Gross: -2747.52 | Costs: 568.99 | Net: -3316.51 | Eq: 337402.82 | DD: 10.67%
+Progress: 95.7% | Trades: 674 | Equity: 337402.82 | Fees: $80889.02 | Funding: $620.33
+OPEN LONG | Price: 0.103 | SL: 0.1023 | Risk: 1.01% | Size: 4153832.79
+CLOSE [breakeven_stop] | Gross: 2413.1 | Costs: 472.0 | Net: 1941.09 | Eq: 339343.92 | DD: 10.67%
+OPEN LONG | Price: 0.1046 | SL: 0.104 | Risk: 1.01% | Size: 4897742.65
+CLOSE [breakeven_stop] | Gross: 12699.0 | Costs: 570.47 | Net: 12128.53 | Eq: 351472.45 | DD: 10.67%
+OPEN LONG | Price: 0.1069 | SL: 0.1064 | Risk: 1.01% | Size: 4957181.32
+CLOSE [breakeven_stop] | Gross: 683.62 | Costs: 636.41 | Net: 47.21 | Eq: 351466.66 | DD: 10.67%
+OPEN LONG | Price: 0.1083 | SL: 0.1077 | Risk: 1.01% | Size: 4575261.59
+CLOSE [stop_loss] | Gross: -2887.67 | Costs: 543.32 | Net: -3430.99 | Eq: 348035.67 | DD: 10.67%
+OPEN LONG | Price: 0.1083 | SL: 0.1077 | Risk: 1.01% | Size: 4746663.7
+CLOSE [breakeven_stop] | Gross: 1973.87 | Costs: 566.3 | Net: 1407.57 | Eq: 349443.24 | DD: 10.67%
+Progress: 97.1% | Trades: 679 | Equity: 349443.24 | Fees: $83624.52 | Funding: $673.34
+OPEN LONG | Price: 0.1074 | SL: 0.1069 | Risk: 1.01% | Size: 4915875.76
+CLOSE [breakeven_stop] | Gross: 16075.37 | Costs: 589.83 | Net: 15485.54 | Eq: 364928.78 | DD: 10.67%
+OPEN LONG | Price: 0.1116 | SL: 0.1111 | Risk: 1.01% | Size: 4957496.14
+CLOSE [breakeven_stop] | Gross: 713.79 | Costs: 664.49 | Net: 49.3 | Eq: 364922.73 | DD: 10.67%
+OPEN LONG | Price: 0.1071 | SL: 0.1065 | Risk: 1.01% | Size: 4559546.99
+CLOSE [stop_loss] | Gross: -3033.26 | Costs: 535.55 | Net: -3568.81 | Eq: 361353.92 | DD: 10.67%
+Progress: 98.6% | Trades: 682 | Equity: 361353.92 | Fees: $85359.05 | Funding: $728.68
+OPEN LONG | Price: 0.1114 | SL: 0.1107 | Risk: 1.01% | Size: 4137425.96
+CLOSE [stop_loss] | Gross: -3034.33 | Costs: 505.25 | Net: -3539.58 | Eq: 357814.34 | DD: 10.67%
+OPEN LONG | Price: 0.1103 | SL: 0.1097 | Risk: 1.1% | Size: 5124429.68
+CLOSE [breakeven_stop] | Gross: 731.41 | Costs: 628.61 | Net: 102.81 | Eq: 357917.15 | DD: 10.67%
+OPEN LONG | Price: 0.1125 | SL: 0.1119 | Risk: 1.01% | Size: 4666427.19
+CLOSE [breakeven_stop] | Gross: 8991.53 | Costs: 582.27 | Net: 8409.25 | Eq: 366326.4 | DD: 10.67%
+OPEN LONG | Price: 0.1192 | SL: 0.1184 | Risk: 1.1% | Size: 4294925.88
+CLOSE [breakeven_stop] | Gross: 1960.84 | Costs: 564.15 | Net: 1396.69 | Eq: 367723.09 | DD: 10.67%
+OPEN LONG | Price: 0.1194 | SL: 0.1186 | Risk: 1.01% | Size: 3955266.06
+CLOSE [breakeven_stop] | Gross: 1123.65 | Costs: 525.23 | Net: 598.43 | Eq: 368321.51 | DD: 10.67%
+OPEN LONG | Price: 0.1134 | SL: 0.1127 | Risk: 1.01% | Size: 4450170.27
+CLOSE [breakeven_stop] | Gross: 650.85 | Costs: 555.44 | Net: 95.41 | Eq: 368416.92 | DD: 10.67%
+
+Backtest Finished.
+Total fees paid:    $88720.0
+Total funding paid: $728.68
+
+
+==================================================
+  V31 BACKTEST RESULTS — OPUSDT
+==================================================
+
+📊 ТОРГОВЛЯ
+  Сделок:              688
+  Winrate:             72.53%
+  Avg win:             $1005.68
+  Avg loss:            $-754.97
+  Медиана PnL:         $90.82
+  Expectancy:          $522.01
+  Profit Factor:       3.52
+  Max consec. losses:  3
+
+📈 РЕЗУЛЬТАТ
+  Начальный баланс:    $10,000.00
+  Итоговый баланс:     $368,416.92
+  Доходность:          3584.17%
+  Max Drawdown:        10.67%
+  Recovery Factor:     335.95
+
+📐 РИСК-МЕТРИКИ
+  Sharpe Ratio:        7.39
+  Sortino Ratio:       27.872
+
+💸 ИЗДЕРЖКИ
+  Комиссии:            $88,720.00
+  Funding:             $728.68
+  Всего издержек:      $89,448.67
+  Доля от прибыли:     25.0%
+
+==================================================
